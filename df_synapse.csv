@@ -1,0 +1,742 @@
+title,is_answered,creation_timestamp,creation_date,year,month,answer_count,score,view_count,tags,year_month,comparative_year,Technology
+DROP TABLE IF EXISTS not working on Azure SQL Data Warehouse,True,1518563549,2018-02-13,2018,2,4,8,10820,"['azure-sql-database', 'azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",201802,0,Azure Synapse
+Copy data in Azure SQL DW by using ADF(Staged copy by using Polybase dosen&#39;t work according to documentation),False,1574439869,2019-11-22,2019,11,1,2,430,"['azure', 'azure-data-factory', 'azure-synapse', 'polybase']",201911,1,Azure Synapse
+Writing from Databricks to Synapse (Azure DW) very slow,True,1576765546,2019-12-19,2019,12,1,2,1146,"['databricks', 'azure-sql-data-warehouse', 'azure-synapse']",201912,1,Azure Synapse
+Transfer table data from SQL Server 2016 to Microsoft Azure Synapse,True,1580917801,2020-02-05,2020,2,1,0,435,"['azure', 'sql-server-2016', 'transfer', 'azure-synapse']",202002,2,Azure Synapse
+How to resolve error running Invoke-sqlcmd command to connect to Azure Datawarehouse using Invoke-SQLCMD and Powershell 6?,False,1582087564,2020-02-19,2020,2,0,0,641,"['powershell', 'invoke-sqlcmd', 'parallel-data-warehouse', 'powershell-6.0', 'azure-synapse']",202002,2,Azure Synapse
+How to load multiple files from azure blob to azure synapse(Dw) by using azuredatafactory?,True,1582740037,2020-02-26,2020,2,1,0,1502,"['azure-data-factory', 'azure-container-service', 'azure-synapse']",202002,2,Azure Synapse
+How to perform concurrent streaming upserts into Azure Synapse Analytics,False,1583162716,2020-03-02,2020,3,0,1,150,['azure-synapse'],202003,2,Azure Synapse
+Cannot access ADLS from Synapse Analytics,True,1583237109,2020-03-03,2020,3,1,0,869,"['azure-managed-identity', 'azure-synapse']",202003,2,Azure Synapse
+Create external data source in Azure Synapse Analytics (Azure SQL Data warehouse) to Oracle,True,1583259317,2020-03-03,2020,3,1,1,1202,"['external-tables', 'azure-sql-data-warehouse', 'polybase', 'external-data-source', 'azure-synapse']",202003,2,Azure Synapse
+Azure Databricks to Azure SQL DW: Long text columns,True,1583311078,2020-03-04,2020,3,1,5,1592,"['pyspark', 'azure-databricks', 'azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202003,2,Azure Synapse
+Azure Synapse replicated to Cosmos DB?,False,1583946228,2020-03-11,2020,3,1,0,162,"['azure-cosmosdb', 'replication', 'azure-synapse']",202003,2,Azure Synapse
+Azure Analysis Services versus Synapse Analytics,True,1584104212,2020-03-13,2020,3,2,4,6913,"['azure', 'azure-analysis-services', 'azure-synapse']",202003,2,Azure Synapse
+The below dynamic SQL fails but works fine when I run it manually,True,1584292194,2020-03-15,2020,3,1,0,476,"['sql-server', 'tsql', 'azure-synapse']",202003,2,Azure Synapse
+Azure Synapse External Table Location parameterization,True,1584533660,2020-03-18,2020,3,1,0,362,"['azure', 'azure-sql-data-warehouse', 'azure-synapse']",202003,2,Azure Synapse
+Read Azure Synapse table with Spark,False,1584956756,2020-03-23,2020,3,2,0,1484,"['apache-spark', 'azure-synapse']",202003,2,Azure Synapse
+Azure Synapse - String Delimiter,True,1584967310,2020-03-23,2020,3,2,3,859,"['external-tables', 'azure-sql-data-warehouse', 'azure-synapse']",202003,2,Azure Synapse
+Can we use different run-time in Azure Data Factory v2 (ADFv2) Copy Activity?,False,1585150254,2020-03-25,2020,3,2,1,378,"['azure-data-factory', 'azure-synapse']",202003,2,Azure Synapse
+Creating Materialized View in Azure Data Warehouse SQL error,True,1585559980,2020-03-30,2020,3,1,0,1044,"['sql', 'azure', 'view', 'materialized', 'azure-synapse']",202003,2,Azure Synapse
+Azure Function Azure Synapse - Why do I received blank output,False,1585908062,2020-04-03,2020,4,0,2,208,"['javascript', 'sql-server', 'azure', 'azure-functions', 'azure-synapse']",202004,2,Azure Synapse
+Azure Synapse Current_TimeZone?,True,1586353081,2020-04-08,2020,4,1,0,609,"['azure-sql-data-warehouse', 'azure-synapse']",202004,2,Azure Synapse
+Queries performances on ADLS gen 2,False,1586741609,2020-04-13,2020,4,1,0,54,"['data-warehouse', 'azure-data-lake', 'external-tables', 'azure-synapse']",202004,2,Azure Synapse
+Azure SQL Data Warehouse (Synapse Analytics) Polybase performances with ORC table,False,1586768640,2020-04-13,2020,4,1,2,777,"['orc', 'azure-sql-data-warehouse', 'polybase', 'azure-synapse']",202004,2,Azure Synapse
+Extracting and Transforming Data from local MySQL to Azure Synapse Data Warehouse,True,1586789699,2020-04-13,2020,4,1,0,370,"['azure', 'etl', 'azure-data-factory', 'azure-sql-data-warehouse', 'azure-synapse']",202004,2,Azure Synapse
+COPY INTO path with wildcards = Index out of range,True,1587117083,2020-04-17,2020,4,2,1,80,"['azure-sqldw', 'azure-synapse']",202004,2,Azure Synapse
+How do I read records from Azure Synapse Analytics?,False,1587199994,2020-04-18,2020,4,0,0,111,"['sql-server', 'tsql', 'azure-synapse']",202004,2,Azure Synapse
+Azure Data Factory vs Synapse Workspace pipelines,True,1587411893,2020-04-20,2020,4,1,0,705,"['azure', 'azure-data-factory', 'azure-synapse']",202004,2,Azure Synapse
+Azure DF - when extracting a datetime from a database into a CSV it sometimes gets interpreted as a datetime2,False,1587714895,2020-04-24,2020,4,1,1,263,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-sql-data-warehouse', 'azure-synapse']",202004,2,Azure Synapse
+Slow Azure Data Factory Pipeline,True,1588278862,2020-04-30,2020,4,1,2,2877,"['azure-pipelines', 'azure-data-lake', 'azure-data-factory-2', 'azure-synapse']",202004,2,Azure Synapse
+Confusion About Azure Synapse Analytics,True,1588356323,2020-05-01,2020,5,1,1,442,['azure-synapse'],202005,2,Azure Synapse
+What is the best approach between AAS Tabular model or SSAS Multidimensional in Azure Data Platform with Azure Synapse,True,1588452601,2020-05-02,2020,5,1,1,1242,"['azure', 'ssas', 'ssas-tabular', 'azure-synapse']",202005,2,Azure Synapse
+How to insert multiple rows of a pandas dataframe into Azure Synapse SQL DW using pyodbc?,False,1588782012,2020-05-06,2020,5,2,1,781,"['azure', 'pyodbc', 'azure-sql-data-warehouse', 'azure-synapse']",202005,2,Azure Synapse
+Ingesting a CSV file thru Polybase without knowing the sequence of columns,True,1588853868,2020-05-07,2020,5,1,0,93,"['azure', 'azure-data-lake', 'polybase', 'azure-synapse']",202005,2,Azure Synapse
+Azure Synapse - retrieve inserted row identity value,False,1588942573,2020-05-08,2020,5,0,2,661,"['sql', 'azure-sql-data-warehouse', 'azure-synapse']",202005,2,Azure Synapse
+Loading data from ADLS Gen 2 into Azure Synapse,False,1589372291,2020-05-13,2020,5,2,1,1867,"['sql-server', 'azure', 'azure-data-lake', 'azure-synapse', 'polybase']",202005,2,Azure Synapse
+Roadmap for Azure SQL DW Hyperscale and Azure Synapse,True,1589488502,2020-05-14,2020,5,2,1,1009,"['azure', 'azure-sqldw', 'azure-synapse']",202005,2,Azure Synapse
+Foreign Key constraints Synapse Azure,True,1589972963,2020-05-20,2020,5,2,5,1742,"['azure', 'foreign-keys', 'azure-synapse']",202005,2,Azure Synapse
+Can azure blob storage use abfss protocol? Or does it only use wasbs?,True,1590005820,2020-05-20,2020,5,1,0,936,"['azure', 'azure-data-lake', 'azure-blob-storage', 'azure-sqldw', 'azure-synapse']",202005,2,Azure Synapse
+Azure Synapse Analysis: Error while accessing the external table,True,1590043051,2020-05-21,2020,5,1,1,1335,"['external-tables', 'azure-data-lake-gen2', 'azure-synapse']",202005,2,Azure Synapse
+Error- &quot;The size (12000) given to the type &#39;VarChar&#39; exceeds the maximum allowed (8000)&quot; in Azure dataware house,True,1590046479,2020-05-21,2020,5,1,0,195,"['azure', 'hadoop', 'data-warehouse', 'azure-synapse']",202005,2,Azure Synapse
+how to schedule a query in Azure synapse on-demand,True,1590329497,2020-05-24,2020,5,1,0,665,['azure-synapse'],202005,2,Azure Synapse
+Azure Synapse Analytics monitor rowgroup skipping,False,1590687887,2020-05-28,2020,5,1,0,123,"['sql-server', 'azure-sqldw', 'azure-synapse']",202005,2,Azure Synapse
+Is there any way to monitor Azure Synapse Pipelines execution?,True,1590775408,2020-05-29,2020,5,1,1,175,"['azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202005,2,Azure Synapse
+Azure Synapse Analytics Error when using saveAsTable from a DataFrame which is loaded from a SQL source,False,1590967383,2020-06-01,2020,6,1,-1,586,['azure-synapse'],202006,2,Azure Synapse
+Azure Synapse Studio - WorkFlow,True,1591452347,2020-06-06,2020,6,1,1,164,"['azure', 'azure-synapse']",202006,2,Azure Synapse
+Partition expiration for a table in Azure Synapse Analytics,False,1591597790,2020-06-08,2020,6,0,1,58,"['azure', 'azure-synapse']",202006,2,Azure Synapse
+Issue in YAMEL file,True,1591734372,2020-06-09,2020,6,1,-1,99,"['azure-devops', 'yaml', 'azure-pipelines', 'azure-synapse']",202006,2,Azure Synapse
+Unable to file multiple BLOB to Synapse using data factory,False,1591773095,2020-06-10,2020,6,1,0,147,"['azure', 'azure-blob-storage', 'azure-data-factory', 'azure-synapse']",202006,2,Azure Synapse
+What is the most appropriate way to copy data from SQL server to Azure synapses analytics,True,1591843083,2020-06-11,2020,6,1,0,95,"['azure', 'azure-data-factory', 'polybase', 'azure-synapse', 'azure-data-factory-pipeline']",202006,2,Azure Synapse
+Databricks: save to DWH (Synapse) in consistent way,False,1591875081,2020-06-11,2020,6,0,2,85,"['databricks', 'azure-databricks', 'azure-synapse']",202006,2,Azure Synapse
+Azure Data Factory Error - String or binary data would be truncated,True,1591888330,2020-06-11,2020,6,1,2,2297,"['azure', 'ssms', 'azure-synapse']",202006,2,Azure Synapse
+insert on synapse DW in ssms,True,1591984338,2020-06-12,2020,6,2,2,1617,"['sql', 'ssms', 'azure-sql-data-warehouse', 'azure-synapse']",202006,2,Azure Synapse
+"Is there any emulator for Azure data factory ,azure sql db and Synapse DB",False,1592408520,2020-06-17,2020,6,1,-1,534,"['azure-sql-database', 'azure-data-factory-2', 'azure-databricks', 'azure-synapse']",202006,2,Azure Synapse
+Insert values statement can contain only constant literal values or variable references error while running below procedure,False,1592471248,2020-06-18,2020,6,0,0,191,"['sql-server', 'azure-sql-database', 'azure-synapse']",202006,2,Azure Synapse
+Azure Synapse notebook can read from SQL pool when run manually but task fails in pipeline,False,1592486187,2020-06-18,2020,6,0,1,227,"['azure-data-factory', 'azure-sql-data-warehouse', 'azure-synapse']",202006,2,Azure Synapse
+Databricks version 7.0 not behaving like version 6.3: class java.lang.Long cannot be cast to class java.lang.Integer,False,1592690833,2020-06-20,2020,6,1,1,568,"['azure-databricks', 'azure-sql-data-warehouse', 'azure-synapse']",202006,2,Azure Synapse
+Why does azure synapse create a SQL Server in version 12 when the features require version 14 or 16 or above?,False,1592936439,2020-06-23,2020,6,0,0,75,"['sql-server', 'azure-synapse', 'workload']",202006,2,Azure Synapse
+Connect to Synapse from DataBricks using Service Principal,False,1593092422,2020-06-25,2020,6,1,4,1677,"['azure-databricks', 'azure-synapse', 'azure-service-principal']",202006,2,Azure Synapse
+Failed to retrieve this workspace error when attempting to launch Azure Synapse Studio,False,1593444233,2020-06-29,2020,6,1,0,287,"['azure', 'azure-sql-database', 'azure-synapse']",202006,2,Azure Synapse
+Star Schema modeling Azure Synapse,True,1593462517,2020-06-29,2020,6,1,1,542,"['azure', 'azure-synapse']",202006,2,Azure Synapse
+Avoid duplicates during parallel job run in Azure Synapse,True,1593505344,2020-06-30,2020,6,2,2,481,"['azure', 'azure-data-factory', 'azure-synapse']",202006,2,Azure Synapse
+Stream Analytics output to Synapse Analytics in ARM template,False,1593609340,2020-07-01,2020,7,2,0,109,"['azure', 'azure-resource-manager', 'azure-stream-analytics', 'azure-synapse']",202007,2,Azure Synapse
+Error o Azure Synapse Analytics - Could not allocate a new page for database,False,1593610020,2020-07-01,2020,7,0,1,226,"['azure', 'space', 'disk', 'azure-synapse']",202007,2,Azure Synapse
+External table Azure Synapse does&#39;t returning data,True,1593703069,2020-07-02,2020,7,1,1,565,"['azure', 'azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+Facing Issue in writing PySpark Dataframe to Azure Synapse,True,1593707962,2020-07-02,2020,7,2,3,1245,"['azure', 'pyspark', 'databricks', 'azure-databricks', 'azure-synapse']",202007,2,Azure Synapse
+Event Hubs data to a SQL Data Warehouse (Synapse),True,1593861672,2020-07-04,2020,7,1,0,815,"['azure-functions', 'azure-eventhub', 'azure-eventgrid', 'azure-synapse', 'azure-eventhub-capture']",202007,2,Azure Synapse
+"From Databricks to Azure Synapse Analytics: when we load a dataframe into table, why do we need to set parquet.writeLegacyFormat as True?",False,1594306077,2020-07-09,2020,7,1,0,470,"['apache-spark', 'azure-databricks', 'polybase', 'azure-synapse']",202007,2,Azure Synapse
+COPY INTO from Azure Dala lake gen2 to Azure Synapse does nothing,False,1594356227,2020-07-10,2020,7,1,1,252,"['python', 'pandas', 'azure-data-lake-gen2', 'azure-synapse']",202007,2,Azure Synapse
+Connecting to Azure Synapse SQL On-Demand leads to &quot;syscharsets is not supported&quot; error,True,1594362010,2020-07-10,2020,7,1,0,665,"['azure', 'odbc', 'azure-sql-database', 'azure-synapse']",202007,2,Azure Synapse
+Bulk insert PySpark Dataframe in Azure Synapse from Databricks Python Notebook,False,1594572417,2020-07-12,2020,7,0,1,709,"['python', 'pyspark', 'azure-databricks', 'pyspark-dataframes', 'azure-synapse']",202007,2,Azure Synapse
+Option to generate DDL in Azure SQL DW,False,1594648660,2020-07-13,2020,7,1,0,777,"['sql', 'ssms', 'azure-sqldw', 'azure-synapse']",202007,2,Azure Synapse
+Azure Synapse analytics temporary table DDL,False,1594649045,2020-07-13,2020,7,1,0,788,"['azure', 'azure-synapse']",202007,2,Azure Synapse
+Replicated table distribution for small dimension in SQL Data Warehouse (Azure Synapse) with 1 Compute Node,False,1594672904,2020-07-13,2020,7,2,1,604,"['azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+How do I find out what is inserting data in my Azure Data Warehouse,True,1594681128,2020-07-13,2020,7,1,1,155,"['azure-log-analytics', 'azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+Transform JSON from REST API to Azure Synapse Analytics,False,1594705516,2020-07-14,2020,7,0,2,405,"['python', 'azure', 'azure-data-factory', 'azure-databricks', 'azure-synapse']",202007,2,Azure Synapse
+Copy parquet file from Azure data lake storage account to Synapse data warehouse table failed,False,1594865812,2020-07-16,2020,7,1,1,472,"['azure', 'parquet', 'azure-data-lake-gen2', 'azure-synapse']",202007,2,Azure Synapse
+Copying data in azure synapse analytics workspace failed on folder destination,False,1594956416,2020-07-17,2020,7,0,1,129,"['azure', 'azure-data-lake', 'azure-synapse']",202007,2,Azure Synapse
+How to attach backup in Azure Synapse Analytics (formerly SQL DW),False,1594971744,2020-07-17,2020,7,1,0,617,"['sql-server', 'azure', 'azure-sqldw', 'azure-synapse']",202007,2,Azure Synapse
+"Azure Synapse , REPLICATED TABLE",False,1595215938,2020-07-20,2020,7,0,1,149,"['azure', 'replicate', 'azure-synapse']",202007,2,Azure Synapse
+Pivot using Max in Azure DW(Synapse),True,1595353421,2020-07-21,2020,7,1,0,248,"['azure', 'tsql', 'pivot', 'azure-synapse']",202007,2,Azure Synapse
+Azure Synapse Billing Model for individuals?,True,1595520246,2020-07-23,2020,7,1,1,747,"['azure', 'data-warehouse', 'subscription', 'azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+"azure synapse on demand, is external table cached?",True,1595590702,2020-07-24,2020,7,1,0,121,['azure-synapse'],202007,2,Azure Synapse
+I am maintaining an inventory in azure SQL DW and want to calculate initial and final stock of a day using T-SQL. Below are the details I have,False,1595608580,2020-07-24,2020,7,1,-1,110,"['azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+I need to calculate running total in Azure SQL Datawarehouse. Tried recursive CTEs but not supported,False,1595850629,2020-07-27,2020,7,1,0,163,"['sql', 'azure', 'azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202007,2,Azure Synapse
+Why Azure Databricks needs to store data in a temp storage in Azure,True,1596304181,2020-08-01,2020,8,1,2,157,"['azure-databricks', 'azure-synapse']",202008,2,Azure Synapse
+When to use Data Factory (copy) over direct pull in SQL synapse,False,1596477969,2020-08-03,2020,8,1,0,119,"['azure', 'azure-data-factory', 'data-warehouse', 'polybase', 'azure-synapse']",202008,2,Azure Synapse
+How to save a snapshot of Azure Synapse SQL Pool (Data Warehouse) in another Active Directory Subscription?,True,1596716064,2020-08-06,2020,8,1,0,343,"['azure', 'azure-storage', 'restore', 'backup-strategies', 'azure-synapse']",202008,2,Azure Synapse
+Can we write multiple SQL Queries in Power BI to load it to Azure Synapse,True,1597137811,2020-08-11,2020,8,1,0,407,"['azure', 'powerbi', 'powerbi-desktop', 'azure-synapse']",202008,2,Azure Synapse
+DataFrame.show() throwing error in Databricks,True,1597144527,2020-08-11,2020,8,1,0,749,"['python', 'pyspark', 'azure-databricks', 'azure-sqldw', 'azure-synapse']",202008,2,Azure Synapse
+Cannot Add Managed Identity to Synapse Pool,True,1597696484,2020-08-17,2020,8,1,3,940,"['azure', 'azure-managed-identity', 'azure-synapse']",202008,2,Azure Synapse
+Azure Synapse Analytics (formerly SQL SW) vs Azure Synapse Analytics (workspaces preview),True,1597763443,2020-08-18,2020,8,1,2,1068,"['sql', 'azure', 'data-warehouse', 'azure-sql-data-warehouse', 'azure-synapse']",202008,2,Azure Synapse
+Auto pause and resume azure synapse analysis database,True,1597841080,2020-08-19,2020,8,1,-1,559,['azure-synapse'],202008,2,Azure Synapse
+Moving to Azure Synapse from Azure SQL Database,False,1598337886,2020-08-25,2020,8,1,0,263,"['azure', 'azure-sql-database', 'azure-data-factory', 'azure-synapse']",202008,2,Azure Synapse
+How to access Table from one Azure SQL DW from another Azure SQL DW?,True,1598342767,2020-08-25,2020,8,1,0,142,"['azure', 'azure-sqldw', 'azure-synapse']",202008,2,Azure Synapse
+"Azure Data Factory v2 - OData - Copy Data - XmlError hexadecimal value 0x1F is an invalid character Line 1, position 1",False,1598466224,2020-08-26,2020,8,1,1,160,"['azure', 'azure-data-factory', 'azure-synapse']",202008,2,Azure Synapse
+How to implement Sequence in Azure Synapse,False,1598529409,2020-08-27,2020,8,0,1,1164,"['sql-server', 'azure', 'azure-synapse']",202008,2,Azure Synapse
+Azure Synapse SQL: Security option for SQLOnDemand,True,1598540697,2020-08-27,2020,8,1,2,163,"['azure-sql-data-warehouse', 'azure-synapse']",202008,2,Azure Synapse
+Query the size of all tables in Synapse Analytics,True,1598545529,2020-08-27,2020,8,2,1,3274,['azure-synapse'],202008,2,Azure Synapse
+Attempting to Read parcquet files on linked storage in Azure Synapse,True,1598619341,2020-08-28,2020,8,2,2,1737,"['azure-data-lake', 'azure-synapse']",202008,2,Azure Synapse
+Unable to invoke pause for Synapse Analytics (workspaces preview),True,1598704380,2020-08-29,2020,8,1,0,142,"['azure', 'azure-synapse']",202008,2,Azure Synapse
+Filter DACPAC file based on input object list,False,1598774162,2020-08-30,2020,8,0,1,92,"['sql-server', 'dacpac', 'azure-synapse']",202008,2,Azure Synapse
+Databricks cannot connect to Azure Synapse Analytics: Unexpected version returned: Microsoft SQL Azure (RTM) - 12.0.2000.8,False,1598870432,2020-08-31,2020,8,0,0,402,"['azure', 'jdbc', 'azure-databricks', 'azure-synapse']",202008,2,Azure Synapse
+Dynamic approach in Azure SQL DW to get only those column names from a table whose values are not null for a particular record,True,1598885549,2020-08-31,2020,8,1,0,360,"['sql-server', 'dynamic-sql', 'azure-sqldw', 'azure-synapse']",202008,2,Azure Synapse
+Does Synapse have the ability to work with semi-structured data?,True,1599043903,2020-09-02,2020,9,2,1,515,"['azure-data-lake', 'azure-synapse']",202009,2,Azure Synapse
+"SQL Synapse, use dynamic/parameterized Azure Container in CREATE EXTERNAL TABLE",False,1599262872,2020-09-05,2020,9,1,0,115,"['dynamic', 'containers', 'azure-synapse', 'polybase']",202009,2,Azure Synapse
+PySaprk- Perform Merge in Synapse using Databricks Spark,True,1599548235,2020-09-08,2020,9,2,2,446,"['pyspark', 'databricks', 'azure-databricks', 'azure-synapse', 'spark3']",202009,2,Azure Synapse
+Synapse SQL on-demand firstrow skipping more than just the 1st row,False,1599551683,2020-09-08,2020,9,1,0,92,"['azure-sqldw', 'ondemand', 'azure-synapse']",202009,2,Azure Synapse
+Get column names of temp table in Azure Synapse DW,True,1599595407,2020-09-08,2020,9,1,0,628,"['azure-sqldw', 'azure-sql-data-warehouse', 'azure-synapse']",202009,2,Azure Synapse
+Azure Synapse - Incremental Data Load,True,1599595736,2020-09-08,2020,9,1,1,2008,"['azure', 'azure-sql-database', 'azure-data-factory-2', 'azure-sql-data-warehouse', 'azure-synapse']",202009,2,Azure Synapse
+When adding a new user to Azure Synapse Analytics Workspace what rights are needed?,False,1599624779,2020-09-09,2020,9,1,1,602,"['azure', 'azure-synapse']",202009,2,Azure Synapse
+What tool can be used to MIGRATE SQL Server DB/DW to Azure Synapse (formerly Azure SQL DW)?,False,1599639091,2020-09-09,2020,9,1,0,234,"['azure-sqldw', 'azure-synapse']",202009,2,Azure Synapse
+Logical views in Azure Data lake file,True,1599809406,2020-09-11,2020,9,1,0,173,"['azure', 'azure-databricks', 'azure-synapse']",202009,2,Azure Synapse
+Choosing hash column for hash distribution table in Synapse,False,1599918089,2020-09-12,2020,9,0,1,605,"['azure', 'azure-synapse']",202009,2,Azure Synapse
+Specify datetime2 format in Azure SQL data warehouse (synapse),False,1600166115,2020-09-15,2020,9,1,0,921,"['azure', 'data-warehouse', 'azure-sqldw', 'azure-synapse']",202009,2,Azure Synapse
+How to use Azure Synapse Spark pool to write to Cosmos DB,False,1600432874,2020-09-18,2020,9,1,0,200,"['azure', 'azure-cosmosdb', 'azure-synapse']",202009,2,Azure Synapse
+Azure Synapse Analytics - exception Running a Dataflow,False,1600448687,2020-09-18,2020,9,0,2,513,"['azure-data-factory-2', 'azure-synapse']",202009,2,Azure Synapse
+Drop large partition and recreate,True,1600727271,2020-09-21,2020,9,1,1,230,"['azure', 'azure-synapse', 'parallel-data-warehouse']",202009,2,Azure Synapse
+Is it possible to rename Azure Synapse SQL Pool?,True,1600793592,2020-09-22,2020,9,4,1,1352,"['azure', 'azure-sql-database', 'azure-synapse']",202009,2,Azure Synapse
+Is it possible to query Azure data warehouse within log analytics,True,1600842901,2020-09-23,2020,9,1,0,273,"['azure', 'azure-log-analytics', 'azure-sqldw', 'azure-synapse']",202009,2,Azure Synapse
+Azure Synapse loading: Split large compress files to smaller compressed files,True,1600855225,2020-09-23,2020,9,1,1,186,"['azure', 'azure-synapse']",202009,2,Azure Synapse
+Best way to load data into Azure synapse analytics,True,1600861708,2020-09-23,2020,9,1,0,460,"['.net', 'azure', 'azure-sql-database', 'azure-sql-data-warehouse', 'azure-synapse']",202009,2,Azure Synapse
+Azure Synapse Analytics query timeout,True,1601352930,2020-09-29,2020,9,1,0,1610,"['azure-sql-data-warehouse', 'azure-synapse']",202009,2,Azure Synapse
+Azure synapse pipeline event trigger is failing to publish,False,1601414064,2020-09-29,2020,9,1,0,484,"['azure', 'events', 'triggers', 'pipeline', 'azure-synapse']",202009,2,Azure Synapse
+How to handle white spaces in varchar not null column from azure synapse table to spark databricks,False,1601557767,2020-10-01,2020,10,1,0,405,"['apache-spark', 'pyspark', 'azure-databricks', 'azure-synapse']",202010,2,Azure Synapse
+Azure function blob trigger for subfolders,False,1601599642,2020-10-02,2020,10,1,1,840,"['azure', 'azure-blob-storage', 'azure-synapse', 'azure-blob-trigger']",202010,2,Azure Synapse
+Azure Synapse Studio- unable to create SQL Pool,True,1601738615,2020-10-03,2020,10,1,0,389,"['azure', 'azure-synapse']",202010,2,Azure Synapse
+Can&#39;t create an external table,False,1601762657,2020-10-03,2020,10,0,1,57,"['azure', 'azure-synapse']",202010,2,Azure Synapse
+How can setup routing for Power BI via firewall in Azure,False,1601875594,2020-10-05,2020,10,1,0,239,"['azure', 'powerbi', 'azure-data-factory', 'azure-synapse']",202010,2,Azure Synapse
+Wildcard file paths with Azure Data Factory,False,1601890716,2020-10-05,2020,10,1,0,530,"['azure', 'azure-data-factory', 'azure-synapse']",202010,2,Azure Synapse
+Openrowset syntax issues in Azure Synapse,True,1601968434,2020-10-06,2020,10,1,1,2355,"['azure', 'tsql', 'azure-blob-storage', 'azure-sql-data-warehouse', 'azure-synapse']",202010,2,Azure Synapse
+SQL Polybase External Table - Dealing with file metadata,False,1601976850,2020-10-06,2020,10,0,1,357,"['azure-data-lake', 'external-tables', 'azure-synapse', 'polybase']",202010,2,Azure Synapse
+how to define date format in Azure synapse on demand,True,1602075630,2020-10-07,2020,10,1,1,343,"['azure', 'azure-synapse', 'polybase']",202010,2,Azure Synapse
+Single Instance Azure Synapse with Multiple Environments,True,1602281604,2020-10-09,2020,10,1,0,444,"['azure', 'azure-data-factory', 'azure-data-lake-gen2', 'azure-synapse']",202010,2,Azure Synapse
+CosmosDB Azure Synapse Link On-Demand SQL Connection not working,False,1602285107,2020-10-10,2020,10,1,0,297,"['azure', 'azure-cosmosdb', 'azure-synapse']",202010,2,Azure Synapse
+Azure Synapse Sql - Include Subfolders with _ and . in Extraction,True,1602331373,2020-10-10,2020,10,1,0,208,"['azure', 'azure-synapse']",202010,2,Azure Synapse
+Azure Synapse Spark Pool Submission Failure with error message &quot;SparkJobDefinitionActionFailed&quot;,False,1602426941,2020-10-11,2020,10,1,0,378,"['azure', 'apache-spark', 'azure-synapse']",202010,2,Azure Synapse
+Error creating Azure Synapse Pool with Terraform,True,1602521975,2020-10-12,2020,10,1,0,731,"['azure', 'terraform', 'azure-synapse']",202010,2,Azure Synapse
+renaming table and columns and Transfer schema in synapse pool,False,1602591199,2020-10-13,2020,10,1,0,602,"['azure', 'azure-synapse']",202010,2,Azure Synapse
+Synapse LINK Load streaming DataFrame from Azure Cosmos DB container,False,1602675438,2020-10-14,2020,10,1,0,119,"['azure', 'azure-cosmosdb', 'azure-synapse']",202010,2,Azure Synapse
+Source linked service should not have &quot;service principal&quot; as authentication method,True,1602685407,2020-10-14,2020,10,1,0,174,"['azure', 'azure-data-factory', 'azure-data-lake', 'azure-synapse']",202010,2,Azure Synapse
+Azure SQL Server Query error caused by WITH clause,True,1602712148,2020-10-14,2020,10,1,0,835,"['sql-server', 'azure', 'tsql', 'azure-synapse']",202010,2,Azure Synapse
+Error while loading data from ADLS Gen2 to Azure Synapse,False,1602840231,2020-10-16,2020,10,1,0,472,"['azure', 'azure-data-factory', 'azure-data-lake', 'azure-sql-data-warehouse', 'azure-synapse']",202010,2,Azure Synapse
+ADF Mapping Data Flows failing with BatchUpdateException,False,1602946306,2020-10-17,2020,10,1,1,356,"['azure', 'azure-blob-storage', 'azure-data-factory', 'azure-synapse']",202010,2,Azure Synapse
+Azure stream analytics how to create a single parquet file,False,1603109894,2020-10-19,2020,10,0,1,196,"['azure', 'parquet', 'azure-stream-analytics', 'azure-synapse', 'azure-data-lake-gen2']",202010,2,Azure Synapse
+Precalculate OLAP cube inside Azure Synapse,True,1603489173,2020-10-23,2020,10,2,1,942,"['azure', 'data-warehouse', 'olap', 'olap-cube', 'azure-synapse']",202010,2,Azure Synapse
+what kind of locks are applied by Azure Synapse when loading data using COPY INTO,True,1603698790,2020-10-26,2020,10,1,0,122,['azure-synapse'],202010,2,Azure Synapse
+Purge or Remove Old data from Azure SQL Warehouse,False,1603728312,2020-10-26,2020,10,0,0,201,"['azure', 'azure-sql-data-warehouse', 'azure-synapse']",202010,2,Azure Synapse
+SQL Data Warehouse External Table with String fields,True,1603750697,2020-10-26,2020,10,1,1,139,"['sql-server', 'external-tables', 'azure-synapse', 'polybase']",202010,2,Azure Synapse
+Column Level Security in Synapse Data Warehouse for External Table,True,1603816269,2020-10-27,2020,10,2,0,271,"['external-tables', 'azure-sql-data-warehouse', 'azure-synapse']",202010,2,Azure Synapse
+Azure Synapse: Merge command with the identity column in target table is not working,True,1603835924,2020-10-27,2020,10,1,0,365,"['azure', 'azure-synapse']",202010,2,Azure Synapse
+Azure Synapse SQL on-demand pagination (OFFSET/FETCH),False,1603894274,2020-10-28,2020,10,2,1,425,"['sql', 'azure', 'azure-synapse', 'azure-data-lake-gen2']",202010,2,Azure Synapse
+Azure data factory copy activity custom schema name for auto created tables,True,1603966192,2020-10-29,2020,10,1,0,218,"['azure-data-factory', 'azure-synapse']",202010,2,Azure Synapse
+Azure Synapse insert result of exec into a table,True,1604059554,2020-10-30,2020,10,1,0,319,"['exec', 'azure-synapse']",202010,2,Azure Synapse
+How to Synapse Pool/DW in Terraform without entire synapse workspace,False,1604077587,2020-10-30,2020,10,1,0,423,"['terraform', 'terraform-provider-azure', 'azure-synapse']",202010,2,Azure Synapse
+Get Nested Output Dynamically in Azure Data Factory,False,1604085631,2020-10-30,2020,10,0,0,217,"['azure', 'azure-data-factory', 'azure-synapse']",202010,2,Azure Synapse
+How to Insert Data into table with select query in Databricks using spark temp table,False,1604185269,2020-10-31,2020,10,2,0,2021,"['sql-server', 'apache-spark', 'create-table', 'azure-databricks', 'azure-synapse']",202010,2,Azure Synapse
+How to excecute the conditions stored in column of table in sql,False,1604315250,2020-11-02,2020,11,0,0,59,"['sql', 'sql-server', 'azure-synapse']",202011,2,Azure Synapse
+Enable users to &quot;hotfix&quot; source data while waiting for upstream source data to change,True,1604361686,2020-11-03,2020,11,1,0,119,"['sql-server', 'data-warehouse', 'data-management', 'azure-synapse', 'dbt']",202011,2,Azure Synapse
+Error in SSMS when running query from SQL On-Demand endpoint,True,1604373625,2020-11-03,2020,11,2,0,254,"['sql', 'sql-server', 'ssms', 'azure-blob-storage', 'azure-synapse']",202011,2,Azure Synapse
+Azure Synapse: Can&#39;t drop column due to it has dependent statistics,True,1604412161,2020-11-03,2020,11,1,0,371,"['statistics', 'azure-synapse']",202011,2,Azure Synapse
+I can&#39;t create-load data from spark dataframe in databricks to Azure Synapse (DWH),True,1604447791,2020-11-03,2020,11,1,0,343,"['azure', 'apache-spark', 'apache-spark-sql', 'azure-databricks', 'azure-synapse']",202011,2,Azure Synapse
+STRING_SPLIT in Azure Synapse Analytics,True,1604536089,2020-11-05,2020,11,1,0,888,"['azure-sqldw', 'azure-synapse', 'azure-sql-data-warehouse']",202011,2,Azure Synapse
+"Azure Synapse: turn an n-length, delimited list column into n distinct columns",True,1604551123,2020-11-05,2020,11,1,1,129,"['azure-sqldw', 'azure-synapse', 'azure-sql-data-warehouse']",202011,2,Azure Synapse
+Azure Polybase External Table on Blob storage file not found,False,1604591532,2020-11-05,2020,11,0,0,315,"['azure', 'azure-blob-storage', 'azure-synapse', 'polybase']",202011,2,Azure Synapse
+Loading huge number of small csv files into Azure Synapse using Polybase,False,1604632251,2020-11-06,2020,11,0,2,181,"['azure', 'azure-data-lake', 'azure-synapse', 'polybase']",202011,2,Azure Synapse
+&quot;Validate Schema&quot; In Source and Sink,False,1604660048,2020-11-06,2020,11,1,0,203,"['azure-data-factory-2', 'azure-synapse', 'azure-data-flow']",202011,2,Azure Synapse
+Partitioning Data in SQL On-Demand with Blob Storage as Data Source,True,1604895015,2020-11-09,2020,11,2,0,165,"['sql', 'sql-server', 'amazon-redshift', 'azure-synapse', 'amazon-redshift-spectrum']",202011,2,Azure Synapse
+How to solve excessive ADF/Databricks parquet Azure blob write costs in Data Lake Gen2,True,1604943957,2020-11-09,2020,11,2,0,323,"['databricks', 'azure-data-factory-2', 'azure-databricks', 'azure-synapse', 'azure-data-lake-gen2']",202011,2,Azure Synapse
+How can you use Private links for Synapse workspace SQL On-Demand?,True,1604996628,2020-11-10,2020,11,1,1,643,"['azure', 'azure-synapse', 'azure-private-link']",202011,2,Azure Synapse
+Getting a error when trying to alter column as not null in Auzre datawarehouse,True,1605080714,2020-11-11,2020,11,1,0,33,"['tsql', 'azure-synapse']",202011,2,Azure Synapse
+Add range values to include exiting table partition in Azure synapse Analytics,True,1605278940,2020-11-13,2020,11,1,0,313,['azure-synapse'],202011,2,Azure Synapse
+Data Factory Won&#39;t Load Large Column,True,1605287260,2020-11-13,2020,11,1,0,257,"['azure', 'azure-data-factory', 'azure-synapse']",202011,2,Azure Synapse
+Improve import speed of azure analysis services model,False,1605293763,2020-11-13,2020,11,0,0,73,"['azure-analysis-services', 'azure-synapse', 'azure-sql-data-warehouse']",202011,2,Azure Synapse
+Why Azure Analysis Services is processing tables sequentially instead of in parallel?,True,1605366813,2020-11-14,2020,11,2,0,205,"['ssas', 'azure-analysis-services', 'azure-synapse']",202011,2,Azure Synapse
+Azure Synapse with SSIS package,True,1605596417,2020-11-17,2020,11,1,0,399,"['azure', 'ssis', 'azure-sql-database', 'azure-synapse']",202011,2,Azure Synapse
+Partitioning Data on BULK INSERT command,False,1605677834,2020-11-18,2020,11,1,0,67,"['sql', 'sql-server', 'azure-synapse']",202011,2,Azure Synapse
+Not able to create table in Azure Synapse Analytics,True,1605713653,2020-11-18,2020,11,1,3,2729,"['azure', 'azure-synapse']",202011,2,Azure Synapse
+Azure Synapse Analytics | Login failed for user &#39;&lt;token-identified principal&gt;&#39;,True,1605789693,2020-11-19,2020,11,2,3,3410,"['entity-framework-core', 'azure', 'azure-synapse']",202011,2,Azure Synapse
+How do you update popups in Azure map from a Microsoft Synapse database,False,1605833877,2020-11-20,2020,11,1,0,87,"['azure', 'azure-synapse', 'azure-maps']",202011,2,Azure Synapse
+Optimizing Azure Analysis Services processing on Synapse Analytics,False,1605894936,2020-11-20,2020,11,0,0,181,"['azure', 'azure-analysis-services', 'azure-synapse']",202011,2,Azure Synapse
+Error importing Azure Synapse database into Visual Studio,False,1605981471,2020-11-21,2020,11,1,0,300,"['git', 'visual-studio', 'azure', 'azure-synapse']",202011,2,Azure Synapse
+Spark pool taking time to start in azure synapse Analytics,False,1606274839,2020-11-25,2020,11,1,0,819,"['python', 'azure', 'apache-spark', 'pyspark', 'azure-synapse']",202011,2,Azure Synapse
+Azure Data Factory appending large number of files having different schema from csv files,False,1606367985,2020-11-26,2020,11,1,2,352,"['azure', 'azure-sql-database', 'azure-data-factory', 'azure-databricks', 'azure-synapse']",202011,2,Azure Synapse
+How to schedule procedure in Azure Synapse,True,1606397333,2020-11-26,2020,11,2,0,1513,['azure-synapse'],202011,2,Azure Synapse
+login failed for user &#39; token-identified principal &#39; - Azure synapse,False,1606411061,2020-11-26,2020,11,1,0,406,['azure-synapse'],202011,2,Azure Synapse
+Azure Synapse vs Delta Lake,False,1606734486,2020-11-30,2020,11,0,0,141,"['databricks', 'delta-lake', 'azure-synapse']",202011,2,Azure Synapse
+How to trigger Synapse Analytics Workspace pipeline using C# or any other language?,True,1606735375,2020-11-30,2020,11,2,0,957,"['azure', 'azure-data-factory', 'azure-synapse', 'azure-data-factory-pipeline']",202011,2,Azure Synapse
+"Azure Synapse, Azure Analysis Serivces and Power BI",True,1606801069,2020-12-01,2020,12,1,0,65,"['azure', 'powerbi', 'azure-synapse']",202012,2,Azure Synapse
+Databricks: Merge dataframe into Azure synapse table,False,1606816048,2020-12-01,2020,12,1,1,406,"['databricks', 'azure-synapse']",202012,2,Azure Synapse
+copy azure blob files to azure synapse using ADF,False,1606826791,2020-12-01,2020,12,1,0,169,"['azure', 'azure-blob-storage', 'azure-data-factory', 'azure-synapse']",202012,2,Azure Synapse
+Is it possible to filter on a dynamic date range with an Azure Synapse Serverless SQL Pool?,True,1606850028,2020-12-01,2020,12,1,0,458,"['sql', 'sql-server', 'azure', 'azure-synapse']",202012,2,Azure Synapse
+Azure Synapse Polybase/External tables - return only latest file,False,1606866584,2020-12-01,2020,12,1,1,475,"['azure', 'external-tables', 'azure-synapse', 'azure-sql-data-warehouse', 'polybase']",202012,2,Azure Synapse
+Trying to open parquet in Synapse - cannot be opened because it does not exist or it is used by another process,True,1606912026,2020-12-02,2020,12,1,1,1433,"['azure', 'azure-synapse', 'azure-data-lake-gen2']",202012,2,Azure Synapse
+OPENROWSET() for Synapse dedicated pools?,True,1606941939,2020-12-02,2020,12,1,3,542,"['azure-synapse', 'azure-sql-data-warehouse']",202012,2,Azure Synapse
+How do I import one workspace into another in Synapse Analytics Workspace,False,1607178701,2020-12-05,2020,12,1,0,640,['azure-synapse'],202012,2,Azure Synapse
+Azure Data Explorer vs Azure Synapse Analytics (a.k.a SQL DW),True,1607351084,2020-12-07,2020,12,1,2,2120,"['azure-data-explorer', 'azure-synapse']",202012,2,Azure Synapse
+Azure synapse Merger syntax error for Merge into TSQL,True,1607410895,2020-12-08,2020,12,1,3,1855,['azure-synapse'],202012,2,Azure Synapse
+Tasks - Generate Scripts in Azure Synapse Serverless SQL,True,1607535265,2020-12-09,2020,12,2,4,756,"['azure', 'serverless', 'external-tables', 'azure-synapse']",202012,2,Azure Synapse
+Is it possible to access data within a table in a dedicated SQL pool in Azure Synapse using REST API endpoints?,False,1607700382,2020-12-11,2020,12,1,0,276,"['azure', 'rest', 'azure-synapse']",202012,2,Azure Synapse
+What is the use of ROLES in Azure Syanpse if I cannot add any USER to it?,True,1607945055,2020-12-14,2020,12,1,1,1276,"['sql', 'azure', 'azure-synapse']",202012,2,Azure Synapse
+Best options to pull data from SaaS API to Synapse,True,1608015728,2020-12-15,2020,12,1,0,78,"['azure-data-factory-2', 'azure-synapse']",202012,2,Azure Synapse
+How can we parameterise Azure Synapse Spark Jobs?,True,1608031604,2020-12-15,2020,12,2,1,394,['azure-synapse'],202012,2,Azure Synapse
+Azure Synapse pipeline - get array from CSV column with dash in column name,True,1608059179,2020-12-15,2020,12,1,0,127,"['csv', 'pipeline', 'azure-data-factory', 'azure-data-lake', 'azure-synapse']",202012,2,Azure Synapse
+Azure Synapse Studio error: External table &#39;dbo&#39; is not accessible because location does not exist or it is used by another process,False,1608127931,2020-12-16,2020,12,0,0,979,"['configuration', 'azure-synapse']",202012,2,Azure Synapse
+Azure Synapse: How to use Spark job reference files?,False,1608143800,2020-12-16,2020,12,0,0,230,['azure-synapse'],202012,2,Azure Synapse
+How to get the Fact column (screenshot) populate for all child records including parent based on parent column value,True,1608147077,2020-12-16,2020,12,1,0,39,"['sql', 'sql-server', 'azure-synapse']",202012,2,Azure Synapse
+Translating SQL Server Cursor to Azure Synapse,True,1608159923,2020-12-16,2020,12,3,1,606,"['sql-server', 'azure-synapse']",202012,2,Azure Synapse
+How stop the login id from adding and removing other users and logins from the database?,False,1608184070,2020-12-17,2020,12,1,0,56,"['sql', 'azure', 'azure-synapse']",202012,2,Azure Synapse
+OLE DB or ODBC error in Microsoft PowerBI while importing data from Azure Synapse,True,1608186902,2020-12-17,2020,12,1,0,174,"['powerbi', 'odbc', 'ole', 'azure-synapse']",202012,2,Azure Synapse
+Very Slow Updates on tables,True,1608195543,2020-12-17,2020,12,2,0,448,"['azure-synapse', 'azure-sql-data-warehouse']",202012,2,Azure Synapse
+Drop Database Error For Azure Synapse Database,False,1608497041,2020-12-20,2020,12,2,1,791,['azure-synapse'],202012,2,Azure Synapse
+Row level Security (RLS) in Azure Synapse vs Power BI,True,1608593643,2020-12-21,2020,12,2,0,882,"['database', 'powerbi', 'azure-synapse', 'row-level-security', 'rls']",202012,2,Azure Synapse
+How to connect C# unittest with Azure Synapse SSDT,False,1608656455,2020-12-22,2020,12,1,0,129,"['c#', 'visual-studio', 'azure', 'sql-server-data-tools', 'azure-synapse']",202012,2,Azure Synapse
+How to specify CosmosDb Synapse Link types when parquet type is incorrect?,False,1608697765,2020-12-23,2020,12,1,0,210,"['azure-cosmosdb', 'azure-synapse']",202012,2,Azure Synapse
+External Database Scoped Credential via SAS,True,1608792156,2020-12-24,2020,12,1,0,285,['azure-synapse'],202012,2,Azure Synapse
+Relationships in Azure synapse (DWH),True,1609138845,2020-12-28,2020,12,1,2,361,"['azure', 'azure-synapse', 'azure-sql-data-warehouse', 'parallel-data-warehouse']",202012,2,Azure Synapse
+"ADF Expression Builder, upper case all string fields",False,1609260786,2020-12-29,2020,12,1,0,608,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202012,2,Azure Synapse
+SQL Data warehouse DDL parser - How to parse DW specific constructs,False,1609360933,2020-12-30,2020,12,1,3,138,"['sql', 'sql-server', 'ssms', 'ddl', 'azure-synapse']",202012,2,Azure Synapse
+Access Azure Storage account via Synapse through Managed Identity,False,1609414158,2020-12-31,2020,12,1,0,641,['azure-synapse'],202012,2,Azure Synapse
+Realtime replication of data from Azure SQL database to Synapse,True,1609764519,2021-01-04,2021,1,2,2,651,"['azure', 'azure-sql-database', 'analytics', 'azure-synapse']",202101,3,Azure Synapse
+I need to know if there is a DMV similar to this one &#39;sys.dm_pdw_request_steps&#39; in Azure SQL DB,True,1609767483,2021-01-04,2021,1,1,0,122,"['sql', 'sql-server', 'azure-sql-database', 'azure-synapse']",202101,3,Azure Synapse
+Not able to prevent certain users from dropping the table,False,1609853881,2021-01-05,2021,1,1,0,54,"['sql', 'azure', 'ddl', 'azure-synapse']",202101,3,Azure Synapse
+Azure Synapse Serverless. HashBytes: The query references an object that is not supported in distributed processing mode,True,1609854592,2021-01-05,2021,1,2,1,1142,['azure-synapse'],202101,3,Azure Synapse
+PostgreSQL: How to store and fetch historical SQL data from Azure Data Lakes (ADLS),True,1609915157,2021-01-06,2021,1,1,0,237,"['django', 'postgresql', 'azure', 'azure-data-lake', 'azure-synapse']",202101,3,Azure Synapse
+How make user or role specific triggers in AZURE DW or Azure synapse?,True,1609915479,2021-01-06,2021,1,1,2,225,"['sql', 'azure', 'azure-sqldw', 'azure-synapse']",202101,3,Azure Synapse
+Azure Synapse analytics connectivity with Tableau,True,1609932322,2021-01-06,2021,1,1,0,254,"['tableau-api', 'connectivity', 'azure-synapse']",202101,3,Azure Synapse
+Azure Synapse - Unable to create External table Error 401 Unauthorized,False,1610006654,2021-01-07,2021,1,1,0,261,"['azure-sql-database', 'external-tables', 'azure-synapse', 'role-based-access-control', 'azure-service-principal']",202101,3,Azure Synapse
+Azure Synapse Serverless - SQL query to return rows in directory for each file,True,1610040681,2021-01-07,2021,1,1,1,237,"['azure-data-lake', 'azure-synapse']",202101,3,Azure Synapse
+Is Azure Synapse Analyitcs supporting R Language?,True,1610043933,2021-01-07,2021,1,1,0,297,['azure-synapse'],202101,3,Azure Synapse
+Unable to connect Azure purview from Azure Synapse,True,1610083764,2021-01-08,2021,1,2,1,178,"['azure-synapse', 'azure-purview']",202101,3,Azure Synapse
+Grant Read access to Azure Active Directory Group in SQL DW (Synapse),True,1610091882,2021-01-08,2021,1,1,1,1246,"['azure-active-directory', 'ssms', 'active-directory-group', 'azure-synapse']",202101,3,Azure Synapse
+Connection to Azure SQL via Active Directory-Integrated,False,1610345229,2021-01-11,2021,1,1,0,116,"['azure-sql-database', 'azure-synapse']",202101,3,Azure Synapse
+How to give Schema Level permission in Azure Data Warehouse (Synapse)?,True,1610350153,2021-01-11,2021,1,1,2,1613,"['sql-server', 'azure', 'azure-active-directory', 'database-schema', 'azure-synapse']",202101,3,Azure Synapse
+Single Query in Medium RC Causing CPU to 100% in Azure Dedicated SQL Pool,True,1610450970,2021-01-12,2021,1,1,0,42,['azure-synapse'],202101,3,Azure Synapse
+How to load API data into Azure Synapse?,True,1610607604,2021-01-14,2021,1,1,2,432,"['azure', 'api', 'etl', 'azure-synapse']",202101,3,Azure Synapse
+How two times copy (staging copy + normal copy) in Azure synapse is more optimized then normal copy,False,1610636619,2021-01-14,2021,1,1,0,53,"['azure', 'azure-synapse', 'polybase']",202101,3,Azure Synapse
+azure synapse partition table - no performance improvement,False,1610989564,2021-01-18,2021,1,1,0,224,"['sql', 'azure-synapse', 'azure-sql-data-warehouse']",202101,3,Azure Synapse
+Customizing nodes of an Azure Synapse Workspace Spark Cluster,True,1610997561,2021-01-18,2021,1,1,0,53,"['azure', 'apache-spark', 'databricks', 'azure-synapse']",202101,3,Azure Synapse
+Azure Datawarehouse Materialized view causing an issue in Database project Visual Studio 2019,False,1611057112,2021-01-19,2021,1,0,0,87,"['azure', 'azure-sqldw', 'azure-synapse']",202101,3,Azure Synapse
+Running query using serverless sql pool (built-in) on CSV file in Azure Data Lake Storage Gen2 failed,True,1611163229,2021-01-20,2021,1,2,0,228,"['azure', 'csv', 'azure-synapse']",202101,3,Azure Synapse
+Azure Synapse AI using dedicated SQL server VM,True,1611239751,2021-01-21,2021,1,1,0,32,['azure-synapse'],202101,3,Azure Synapse
+Syntax error when using input parameter to create procedure,True,1611254872,2021-01-21,2021,1,1,0,171,"['sql', 'tsql', 'azure-synapse']",202101,3,Azure Synapse
+Can a Mapping Data Flow use a parameterized Parquet dataset?,True,1611265784,2021-01-21,2021,1,1,0,95,"['azure-data-factory', 'parquet', 'azure-synapse', 'azure-data-lake-gen2', 'azure-data-flow']",202101,3,Azure Synapse
+Power BI dictionary size for string columns all over 1mb despite small data,True,1611665108,2021-01-26,2021,1,1,0,128,"['sql-server', 'powerbi', 'powerquery', 'azure-synapse', 'azure-data-lake-gen2']",202101,3,Azure Synapse
+Is there a way to connect azure synapse studio to bitbucket repo?,True,1611729076,2021-01-27,2021,1,1,0,195,"['git', 'azure', 'bitbucket', 'azure-synapse']",202101,3,Azure Synapse
+Loading Tensorflow frozen graph from Data Lake storage in Azure Synapse notebook,False,1611764022,2021-01-27,2021,1,0,0,33,"['python', 'tensorflow2.0', 'azure-synapse']",202101,3,Azure Synapse
+Correct Malformed CSV and pull corrected data back into a dataframe,True,1611798236,2021-01-28,2021,1,1,0,34,"['dataframe', 'apache-spark', 'azure-synapse']",202101,3,Azure Synapse
+"Where is the documentation of ARM / Terraform for Azure Synapse Pipeline, Spark Job Definition etc",False,1611845331,2021-01-28,2021,1,2,0,265,"['azure', 'terraform', 'azure-synapse']",202101,3,Azure Synapse
+How to monitor older query history and query plan in Azure Synapse Dedicated pool,False,1611854324,2021-01-28,2021,1,1,0,423,"['sql-server', 'azure-synapse']",202101,3,Azure Synapse
+How to incrementally refresh Azure Analysis Services having synapse pool as source. Does &quot;Default&quot; processing option supports incremental refresh,False,1611858342,2021-01-28,2021,1,1,0,231,"['azure-analysis-services', 'azure-synapse']",202101,3,Azure Synapse
+Group identifiers/values that are related with each other between multiple columns,False,1611938848,2021-01-29,2021,1,1,0,119,"['sql', 'sql-server', 'recursive-query', 'azure-synapse']",202101,3,Azure Synapse
+Cannot Configure Git Repo (Azure Synapse to DevOps),False,1612034405,2021-01-30,2021,1,1,0,164,"['git', 'azure', 'azure-synapse']",202101,3,Azure Synapse
+Azure Synapse Analytics Pipeline - Which IP range?,False,1612188804,2021-02-01,2021,2,1,0,463,['azure-synapse'],202102,3,Azure Synapse
+Cannot ADF polybase file from Azure Storage to Synapse Pool (SQL datawarehouse),True,1612225657,2021-02-02,2021,2,1,1,190,"['azure-data-factory', 'azure-synapse', 'polybase']",202102,3,Azure Synapse
+Get immediate file name copied using Azure data factory,True,1612258160,2021-02-02,2021,2,2,1,142,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202102,3,Azure Synapse
+Using Azure Synapse with Java,False,1612333387,2021-02-03,2021,2,1,0,218,"['java', 'azure', 'azure-synapse']",202102,3,Azure Synapse
+Slow performance of Power BI report connected to Azure Dedicated SQL pool via Direct Query,True,1612446361,2021-02-04,2021,2,1,1,519,"['sql-server', 'azure', 'powerbi', 'azure-sql-database', 'azure-synapse']",202102,3,Azure Synapse
+Synapse Analytics vs SQL Server 2019 Big Data Cluster,True,1612507240,2021-02-05,2021,2,2,1,569,"['sql-server-2019', 'azure-synapse']",202102,3,Azure Synapse
+How do I create a unique clustered index in Azure Synapse Analytics?,True,1612523494,2021-02-05,2021,2,2,-1,458,['azure-synapse'],202102,3,Azure Synapse
+How can I implement in the Micorsoft Azure / Microsoft Synapse serverless SQL Pool service the Row Level Security feature on external tables?,True,1612531894,2021-02-05,2021,2,2,1,192,"['azure', 'azure-synapse', 'row-level-security', 'serverless-architecture']",202102,3,Azure Synapse
+Do you need a gateway configured when using Azure Synapse Analytics,False,1612779623,2021-02-08,2021,2,2,0,731,"['powerbi', 'powerbi-datasource', 'azure-synapse']",202102,3,Azure Synapse
+How do you import a custom python library onto an apache spark pool with Azure Synapse Analytics?,True,1612815866,2021-02-08,2021,2,2,2,656,"['python-wheel', 'azure-synapse']",202102,3,Azure Synapse
+"In Azure Synapse, is it true that creating a temporary table is discouraged?",True,1612844604,2021-02-09,2021,2,1,1,267,"['azure', 'azure-synapse']",202102,3,Azure Synapse
+Copy activity auto-creates nvarchar(max) columns,True,1612974628,2021-02-10,2021,2,1,0,239,"['azure-data-factory', 'azure-synapse', 'copy-activity', 'autocreate']",202102,3,Azure Synapse
+Can Azure SQL data warehouse (Synapse Analytics) be installed in on-premise?,True,1612978444,2021-02-10,2021,2,2,0,467,"['azure-synapse', 'azure-sql-data-warehouse']",202102,3,Azure Synapse
+"What is the use of Identify (1,1) in synapse sql pool?",False,1613213628,2021-02-13,2021,2,1,0,281,['azure-synapse'],202102,3,Azure Synapse
+Dynamic name of Spark notebook in Notebook activity,False,1613232945,2021-02-13,2021,2,1,0,159,"['azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202102,3,Azure Synapse
+i want max of multiple columns,True,1613402871,2021-02-15,2021,2,2,1,145,"['sql', 'sql-server', 'azure-synapse']",202102,3,Azure Synapse
+Azure Synapse Analytics Spark pool vnet integration solution,False,1613428080,2021-02-15,2021,2,0,2,150,['azure-synapse'],202102,3,Azure Synapse
+AD Passthrough authentication failing on Synapse Analytics Serverless Pool,True,1613481014,2021-02-16,2021,2,1,0,274,"['serverless', 'azure-synapse']",202102,3,Azure Synapse
+Azure Event Hub maven package installation on Synapse,True,1613493115,2021-02-16,2021,2,1,0,191,"['apache-spark', 'pyspark', 'azure-eventhub', 'azure-synapse']",202102,3,Azure Synapse
+Unable to capture insert/update/delete in log Analytics (using synapse dedicated SQL POOL audit data),False,1613536496,2021-02-17,2021,2,1,0,49,['azure-synapse'],202102,3,Azure Synapse
+Python DDL Parser Utility :Teradata to Azure Synapse,False,1613565254,2021-02-17,2021,2,0,0,35,"['teradata', 'ddl', 'azure-synapse']",202102,3,Azure Synapse
+Access Control question on ADLS for Azure Synapse Analytics Serverless Pool to connect and query,True,1613649707,2021-02-18,2021,2,2,0,357,"['serverless', 'azure-data-lake', 'azure-synapse']",202102,3,Azure Synapse
+Migrate table from Azure Databricks to Data Warehouse (Azure Synapse),False,1613660740,2021-02-18,2021,2,0,0,227,"['scala', 'azure', 'apache-spark', 'databricks', 'azure-synapse']",202102,3,Azure Synapse
+Azure SQL DWH - Problem with CTE and random sample,False,1613662190,2021-02-18,2021,2,1,0,106,"['sql', 'azure', 'common-table-expression', 'azure-synapse']",202102,3,Azure Synapse
+In workload management timeout operation is not working for select query,False,1613663103,2021-02-18,2021,2,0,0,41,['azure-synapse'],202102,3,Azure Synapse
+Problem on saving Spark dataframe into Azure Synapse due to PySpark timestamp,False,1613704811,2021-02-19,2021,2,1,0,234,"['apache-spark', 'pyspark', 'databricks', 'azure-synapse']",202102,3,Azure Synapse
+Unable to start scan on Azure Purview for Azure Synapse Analytics Serverless Pool,True,1613739885,2021-02-19,2021,2,3,0,522,"['serverless', 'azure-synapse', 'azure-purview']",202102,3,Azure Synapse
+Unable to get the user-id/identity details from Log Analytics workspace captured from Serverless Pool SQLs,False,1613909119,2021-02-21,2021,2,1,0,105,"['azure-log-analytics', 'usage-statistics', 'azure-synapse', 'serverless-architecture']",202102,3,Azure Synapse
+A transport-level error has occurred - The specified network name is no longer available. ( Azure Synapes ),False,1614017682,2021-02-22,2021,2,1,2,548,"['azure', 'azure-synapse']",202102,3,Azure Synapse
+I&#39;m trying to create a linked service(rest) within azure synapse but I dont have authorization,True,1614154412,2021-02-24,2021,2,1,0,168,"['azure', 'azure-synapse', 'azure-rest-api']",202102,3,Azure Synapse
+Azure Data Factory Linked service to Synapse Serverless Pool through Service Principal,False,1614218230,2021-02-25,2021,2,1,1,759,"['azure', 'azure-data-factory-2', 'azure-synapse']",202102,3,Azure Synapse
+How to create linked service from azure analysis service to azure synapse SQL pool,False,1614254002,2021-02-25,2021,2,1,0,157,['azure-synapse'],202102,3,Azure Synapse
+Cannot run notebooks in azure synapse when analyze with Spark,False,1614275168,2021-02-25,2021,2,0,0,84,"['azure', 'apache-spark', 'azure-synapse']",202102,3,Azure Synapse
+Using Delta Tables in Azure Synapse Dedicated/Serverless SQL Pools,True,1614345150,2021-02-26,2021,2,3,3,3298,"['sql', 'azure', 'pyspark', 'azure-synapse', 'delta-lake']",202102,3,Azure Synapse
+(SQL Merge) I am getting duplicates in the table,False,1614451788,2021-02-27,2021,2,1,0,91,"['sql', 'merge', 'azure-sqldw', 'azure-synapse', 'azure-sql-data-warehouse']",202102,3,Azure Synapse
+Azure Synapse fastest way to process 20k statements in order,True,1614617286,2021-03-01,2021,3,2,0,777,"['sql', 'sql-server', 'database', 'transactions', 'azure-synapse']",202103,3,Azure Synapse
+Best way to merge JSON blob files to SQL table using Azure Data Factory,False,1614637506,2021-03-01,2021,3,0,0,170,"['sql', 'json', 'azure', 'azure-data-factory', 'azure-synapse']",202103,3,Azure Synapse
+How to read the spark_df as dataframe in synapse analytics (Microsoft azure)?,True,1614686355,2021-03-02,2021,3,1,1,158,"['python', 'azure', 'azure-synapse']",202103,3,Azure Synapse
+How to import or create notebook in synapse using CLI,False,1614697201,2021-03-02,2021,3,2,0,223,['azure-synapse'],202103,3,Azure Synapse
+Synapse Analytics - Can&#39;t see the tables list in the dedicated sql pool,True,1614704476,2021-03-02,2021,3,2,0,604,"['azure-sqldw', 'azure-synapse', 'azure-sql-data-warehouse']",202103,3,Azure Synapse
+How to load a table from a databse in synapse to default(spark)?,True,1614759604,2021-03-03,2021,3,1,0,167,"['azure', 'azure-synapse']",202103,3,Azure Synapse
+How to overwrite an existing table in synapse azure?,False,1614773868,2021-03-03,2021,3,2,1,295,"['azure', 'azure-synapse']",202103,3,Azure Synapse
+Recursive Query in Azure Synapse Analytics for Dates,True,1614842235,2021-03-04,2021,3,2,0,728,"['sql-server', 'common-table-expression', 'azure-synapse', 'recursive-cte']",202103,3,Azure Synapse
+ADF Service Principal can not link to Azure Synapse,True,1614994192,2021-03-06,2021,3,1,2,177,"['azure-data-factory', 'azure-synapse']",202103,3,Azure Synapse
+Controlling list of users who can access Synapse Analytics Serverless Pool/SQL Server by using 2 different Active Directory Groups,False,1615047157,2021-03-06,2021,3,0,0,532,"['sql-server-2012', 'serverless', 'database-administration', 'azure-synapse']",202103,3,Azure Synapse
+How to connect to Azure Synapse?,True,1615129976,2021-03-07,2021,3,3,0,630,"['azure', 'azure-synapse']",202103,3,Azure Synapse
+implement a modern end to end reporting system based on Power BI and Azure Synapse,False,1615138156,2021-03-07,2021,3,1,1,81,"['azure', 'powerbi', 'azure-synapse']",202103,3,Azure Synapse
+Error received whilst executing COPY statement in Azure Synapse Analytics for csv.gz file using GZIP codec,True,1615205895,2021-03-08,2021,3,1,0,122,"['azure', 'csv', 'gzip', 'azure-synapse']",202103,3,Azure Synapse
+Join data in Azure Synapse from dedicated sql pool and serverless sql pool,True,1615211826,2021-03-08,2021,3,1,3,1540,['azure-synapse'],202103,3,Azure Synapse
+Adding compute instance to Azure Synapse (dedicated pool),True,1615222922,2021-03-08,2021,3,1,0,59,"['azure', 'azure-sqldw', 'azure-synapse', 'azure-sql-data-warehouse']",202103,3,Azure Synapse
+ORA-00907: missing right parenthesis in synapse,False,1615231229,2021-03-08,2021,3,1,1,36,"['oracle', 'azure-synapse']",202103,3,Azure Synapse
+How to read a table from a databse in azure synapse and write it into the default (spak)?,True,1615272993,2021-03-09,2021,3,1,1,394,"['azure', 'azure-synapse']",202103,3,Azure Synapse
+Partitioned table on synapse,False,1615301784,2021-03-09,2021,3,1,1,131,"['partition', 'azure-synapse']",202103,3,Azure Synapse
+Synapse Server less Pool writing data back to ADLS Gen-2 using CETAS &gt;&gt; Permissions issue,True,1615312762,2021-03-09,2021,3,2,0,209,"['sql', 'sql-server', 'serverless', 'azure-synapse']",202103,3,Azure Synapse
+Azure Synapse Notebook Pull Data from Onprem?,True,1615471595,2021-03-11,2021,3,1,1,54,['azure-synapse'],202103,3,Azure Synapse
+how to give authorization access to ADF in Azure Synapse Analytics and Azure Analysis services,False,1615491373,2021-03-11,2021,3,0,0,58,"['terraform', 'rbac', 'azure-synapse', 'azure-data-factory-pipeline']",202103,3,Azure Synapse
+Connecting from Azure Synapse Analytics Spark Pool to Azure SQL Database,True,1615540468,2021-03-12,2021,3,2,0,1476,"['sql-server', 'azure', 'pyspark', 'azure-synapse']",202103,3,Azure Synapse
+Synapse Analytics Server less Pool &gt;&gt; Every day morning gives problem in reading data from External Table,True,1615553735,2021-03-12,2021,3,1,0,183,"['sql', 'sql-server', 'serverless', 'azure-synapse']",202103,3,Azure Synapse
+"Cross Database Queries in Azure Synapse, Azure SQL Database, Azure Managed Instance and On Premise SQL Server",True,1615569141,2021-03-12,2021,3,2,1,2345,"['azure', 'azure-sql-database', 'azure-synapse', 'azure-sql-managed-instance', 'cross-database']",202103,3,Azure Synapse
+External Table in Azure synapse very slow performance,True,1615593135,2021-03-12,2021,3,1,1,1069,"['azure', 'azure-synapse', 'external-tables']",202103,3,Azure Synapse
+How to write the Python result to synapse azure database?,False,1616060578,2021-03-18,2021,3,1,0,79,"['azure', 'azure-synapse']",202103,3,Azure Synapse
+Fingerprint Row Case Insensitive in ADF Mapping Data Flow,False,1616173306,2021-03-19,2021,3,0,0,65,"['azure-data-factory', 'azure-data-factory-2', 'azure-synapse', 'azure-data-flow']",202103,3,Azure Synapse
+Databricks write back to azure synapse error,False,1616421593,2021-03-22,2021,3,1,1,707,"['databricks', 'azure-synapse']",202103,3,Azure Synapse
+Unable to write from spark pool to sql pool in Azure Synapse,False,1616512483,2021-03-23,2021,3,0,1,230,['azure-synapse'],202103,3,Azure Synapse
+How to select from or store result of sp_describe_first_result_set,True,1616859768,2021-03-27,2021,3,1,2,362,"['sql-server', 'tsql', 'stored-procedures', 'metadata', 'azure-synapse']",202103,3,Azure Synapse
+Running nltk.download in Azure Synapse notebook ValueError: I/O operation on closed file,True,1616861298,2021-03-27,2021,3,1,3,377,"['python', 'jupyter-notebook', 'nltk', 'azure-synapse']",202103,3,Azure Synapse
+Python program to impelement azcopy inside azure synapse,False,1617101114,2021-03-30,2021,3,0,0,30,"['python', 'azure-synapse']",202103,3,Azure Synapse
+Accessing Azure Synapse Analytics from Node.js Function,False,1617263360,2021-04-01,2021,4,1,0,356,"['azure', 'azure-functions', 'azure-sql-database', 'azure-synapse', 'tedious']",202104,3,Azure Synapse
+How to routinely and efficiently left join and store result in original table?,False,1617297505,2021-04-01,2021,4,0,0,32,"['sql', 'stored-procedures', 'azure-synapse']",202104,3,Azure Synapse
+Assign query result to variable while passing table name as parameter in azure synapse stored procedure,False,1617302850,2021-04-01,2021,4,2,0,666,"['azure', 'stored-procedures', 'azure-sql-database', 'azure-synapse', 'azure-sql-data-warehouse']",202104,3,Azure Synapse
+Can&#39;t Access Azure Synapse Spark Tables through SSMS,False,1617650824,2021-04-05,2021,4,1,0,376,"['apache-spark', 'azure-synapse']",202104,3,Azure Synapse
+why is it showing as decimal.InvalidOperation error in azure synapse?,True,1617720237,2021-04-06,2021,4,1,0,30,"['azure', 'azure-synapse']",202104,3,Azure Synapse
+Unable to remove Azure Synapse AutoML demand forecasting error: An invalid value for argument [y] was provided,False,1617957270,2021-04-09,2021,4,1,1,141,"['azure', 'pyspark', 'time-series', 'azure-synapse', 'automl']",202104,3,Azure Synapse
+Synapse top level parent hierarchy,False,1617971577,2021-04-09,2021,4,2,1,321,"['sql', 'sql-server', 'azure', 'tsql', 'azure-synapse']",202104,3,Azure Synapse
+What is the role of Advanced SME in Azure Synapse Analytics?,False,1618007911,2021-04-09,2021,4,1,0,35,['azure-synapse'],202104,3,Azure Synapse
+Azure Synapse Mapping Data Flow - Dynamic mapping of column names in derived columns,False,1618239185,2021-04-12,2021,4,1,1,325,"['azure-synapse', 'azure-data-flow', 'derived-column', 'expressionbuilder']",202104,3,Azure Synapse
+Spark Dataframe filldown,True,1618262525,2021-04-12,2021,4,1,0,99,"['scala', 'apache-spark', 'pyspark', 'azure-synapse']",202104,3,Azure Synapse
+Azure Data Factory Copy Activity - Save datetime to csv malforms datestring,False,1618314707,2021-04-13,2021,4,1,0,217,"['azure', 'datetime', 'azure-data-factory', 'azure-synapse', 'copy-activity']",202104,3,Azure Synapse
+Error while converting table from spark pool to pandas in synapse notebook,False,1618373417,2021-04-14,2021,4,0,0,115,"['pandas', 'azure-synapse']",202104,3,Azure Synapse
+Options to write data from Azure Databricks to Azure Synapse analytics,False,1618470111,2021-04-15,2021,4,0,0,55,"['azure', 'azure-databricks', 'azure-synapse']",202104,3,Azure Synapse
+Azure Synapse how to CROSS APPLY JSON PATH,True,1618503862,2021-04-15,2021,4,1,0,505,"['json', 'sql-server', 'tsql', 'azure-synapse']",202104,3,Azure Synapse
+Connecting to Azure Snyapse from Excel Macro with AzureActiveDirectory,False,1618509581,2021-04-15,2021,4,0,0,93,"['macros', 'connection-string', 'azure-synapse', 'azure-service-principal']",202104,3,Azure Synapse
+How to convert FORMAT &#39;--(37)9&#39; from Teradata to Azure Synapse?,False,1618567477,2021-04-16,2021,4,1,0,24,"['azure', 'teradata', 'azure-synapse']",202104,3,Azure Synapse
+Connecting from Azure Synapse spark notebook to SQL-Pool table,False,1618574205,2021-04-16,2021,4,0,0,686,"['azure-synapse', 'spark-notebook']",202104,3,Azure Synapse
+How use EF Core code first with azure synapse,True,1618616629,2021-04-17,2021,4,1,1,414,"['c#', 'entity-framework-core', 'azure-sqldw', 'azure-synapse']",202104,3,Azure Synapse
+Azure Synapse Analytics: Can I use non-unique column as hash column in hash distributed tables?,True,1618863209,2021-04-19,2021,4,1,1,377,"['sql-server', 'tsql', 'indexing', 'query-optimization', 'azure-synapse']",202104,3,Azure Synapse
+Table to pandas is killing my session in azure Synapse,True,1618928800,2021-04-20,2021,4,1,0,41,"['pandas', 'azure-synapse']",202104,3,Azure Synapse
+Working with pyspark in Azure Synapse Analytics how do I create a session that multiple notebooks can use,False,1618938571,2021-04-20,2021,4,0,2,1089,"['apache-spark', 'session', 'azure-synapse']",202104,3,Azure Synapse
+Synapse/Data Factory Sharepoint Online List connector,False,1618950253,2021-04-20,2021,4,1,0,205,"['azure-data-factory', 'sharepoint-online', 'azure-synapse']",202104,3,Azure Synapse
+AAS Refresh Issue: The credentials provided for the SQL source are invalid,False,1618952739,2021-04-20,2021,4,0,0,208,"['azure-synapse', 'azure-analysis-services']",202104,3,Azure Synapse
+How can I filter on a list in Azure Synapse filter transformation mapping data flow,True,1618997901,2021-04-21,2021,4,1,1,175,"['azure', 'azure-data-factory', 'azure-synapse']",202104,3,Azure Synapse
+Running SQL queries in Power Apps - JSON format error on Response,False,1619003878,2021-04-21,2021,4,0,0,148,"['json', 'azure', 'powerapps', 'azure-synapse', 'powerapps-collection']",202104,3,Azure Synapse
+How to create a generic data flow in Azure Synapse,True,1619012122,2021-04-21,2021,4,1,0,47,"['azure', 'azure-data-factory', 'azure-synapse']",202104,3,Azure Synapse
+Databricks - Error writing to Azure Synapse,False,1619049957,2021-04-22,2021,4,1,1,266,"['azure', 'apache-spark', 'azure-databricks', 'azure-synapse']",202104,3,Azure Synapse
+Generate variable time steps,True,1619072592,2021-04-22,2021,4,3,0,51,"['sql', 'tsql', 'azure-synapse']",202104,3,Azure Synapse
+Azure Synapse Workspace = data flow debug error,False,1619095411,2021-04-22,2021,4,0,0,25,"['dataflow', 'azure-synapse']",202104,3,Azure Synapse
+Clustered indexes in Synapse Dedicated Pool and row storage,True,1619113517,2021-04-22,2021,4,1,-2,540,"['azure', 'azure-synapse']",202104,3,Azure Synapse
+Unable to dump ML model as a pickle file in Azure Synapse notebook,False,1619167401,2021-04-23,2021,4,0,0,191,"['azure', 'machine-learning', 'pyspark', 'pickle', 'azure-synapse']",202104,3,Azure Synapse
+Can&#39;t debug failure when using COPY INTO from Azure Dala lake gen2,False,1619354779,2021-04-25,2021,4,0,0,50,"['sql', 'azure', 'azure-synapse', 'azure-data-lake-gen2']",202104,3,Azure Synapse
+Azure Synapse Notebook request to Cognitive services translator,True,1619365436,2021-04-25,2021,4,1,1,109,"['python', 'azure', 'apache-spark', 'azure-synapse']",202104,3,Azure Synapse
+How can I create a key/value pair column in Azure Synape Data Flow?,True,1619451261,2021-04-26,2021,4,1,0,143,"['azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202104,3,Azure Synapse
+Get all days from given month&amp;year with Azure synapse dataflow expression,False,1619527520,2021-04-27,2021,4,0,0,38,"['expression', 'dataflow', 'azure-synapse', 'azure-data-flow']",202104,3,Azure Synapse
+How can I convert a string to a map in Azure Data Factory/Synapse Data Flow?,True,1619533511,2021-04-27,2021,4,1,1,95,"['azure-data-factory-2', 'azure-synapse']",202104,3,Azure Synapse
+Azure Synapse TSQL,False,1619551124,2021-04-27,2021,4,1,0,64,"['azure', 'tsql', 'azure-synapse']",202104,3,Azure Synapse
+Informatica PowerCenter pipelines to Azure Data Factory,True,1619623654,2021-04-28,2021,4,2,1,533,"['ssis', 'etl', 'azure-data-factory-2', 'informatica-powercenter', 'azure-synapse']",202104,3,Azure Synapse
+Notebook Parameter Logging Error codes with eol errors,False,1619640328,2021-04-28,2021,4,0,0,86,"['pyspark', 'jupyter-notebook', 'azure-synapse']",202104,3,Azure Synapse
+querying of SQL table with dynamic date filter in Azure data factory (Azure synapse analytics),True,1619688909,2021-04-29,2021,4,2,0,554,"['azure', 'azure-data-factory-2', 'azure-synapse']",202104,3,Azure Synapse
+Leading zeros of partitioned column are lost in Azure Synapse data flow,False,1619694989,2021-04-29,2021,4,0,0,62,"['azure', 'azure-data-factory-2', 'azure-synapse']",202104,3,Azure Synapse
+Synapse Spark SQL Delta Merge Mismatched Input Error,True,1619836572,2021-05-01,2021,5,3,0,513,"['azure', 'apache-spark', 'azure-synapse', 'delta']",202105,3,Azure Synapse
+while inserting data into synapse table data type automatically converting into Text from Varchar,False,1619869968,2021-05-01,2021,5,1,0,54,"['python', 'azure', 'azure-synapse']",202105,3,Azure Synapse
+sqlalchemy.dialects: &quot;synapse.&quot; pyodbc,False,1619956499,2021-05-02,2021,5,0,0,80,"['sqlalchemy', 'azure-synapse']",202105,3,Azure Synapse
+Sql serverless(Synapse) inconsistent results,False,1620020622,2021-05-03,2021,5,0,0,49,['azure-synapse'],202105,3,Azure Synapse
+Select Column Values as Comma Separated String in azure synapse sql server,True,1620300325,2021-05-06,2021,5,1,0,264,"['sql', 'azure-sql-database', 'azure-synapse']",202105,3,Azure Synapse
+Query to find out details about who truncated tables in azure synapse,False,1620317353,2021-05-06,2021,5,1,-1,81,['azure-synapse'],202105,3,Azure Synapse
+Return SQL Query result in JSON Format in Azure Synapse,False,1620398764,2021-05-07,2021,5,0,1,118,"['json', 'sql-server', 'azure-synapse']",202105,3,Azure Synapse
+Move Azure Synapse DB Between Servers,False,1620400953,2021-05-07,2021,5,1,0,130,"['azure', 'azure-synapse']",202105,3,Azure Synapse
+Azure Synapse Studio: Connect to Azure SQL with Active Directory?,False,1620438603,2021-05-08,2021,5,0,0,100,['azure-synapse'],202105,3,Azure Synapse
+Triggered copy data from blob to ADLS extracting path from filename,True,1620632248,2021-05-10,2021,5,1,0,54,"['azure', 'azure-functions', 'azure-pipelines', 'azure-synapse', 'azure-data-lake-gen2']",202105,3,Azure Synapse
+Azure polybase external data source creation error,True,1620662903,2021-05-10,2021,5,1,0,163,"['tsql', 'azure-sql-database', 'azure-synapse', 'polybase']",202105,3,Azure Synapse
+Synapse / Data Factory: Do Self Hosted Integration Runtimes expose data locally,False,1620824826,2021-05-12,2021,5,1,1,112,"['azure-data-factory', 'azure-synapse', 'data-security']",202105,3,Azure Synapse
+Azure Data Factory copy data from XML to SQL Synapse pool,True,1620843952,2021-05-12,2021,5,1,0,217,"['sql', 'xml', 'azure', 'azure-data-factory', 'azure-synapse']",202105,3,Azure Synapse
+Stream output data from Stream Analytics Job to Azure Synapse Analytics sql pool table?,True,1620893140,2021-05-13,2021,5,1,0,223,"['azure', 'azure-stream-analytics', 'azure-synapse']",202105,3,Azure Synapse
+Alteryx Gallery to Azure Synapse bcpsendrow_failed and communication link failure,False,1620896953,2021-05-13,2021,5,0,0,18,"['azure', 'azure-synapse', 'alteryx']",202105,3,Azure Synapse
+Performing a delete in an ADF mapping data flow - Updated with potential solution,False,1620907328,2021-05-13,2021,5,1,1,441,"['azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202105,3,Azure Synapse
+Can I Query a SQL Server Database from Azure Synapse Without Using a Pipeline?,True,1620931600,2021-05-13,2021,5,1,1,493,"['azure-databricks', 'azure-synapse']",202105,3,Azure Synapse
+Azure SQL Pool Move,False,1620989414,2021-05-14,2021,5,0,0,24,"['azure', 'azure-synapse']",202105,3,Azure Synapse
+&quot;Cursor&quot; and &quot;FOR XML&quot; clause in Azure data warehouse,True,1621000735,2021-05-14,2021,5,1,1,105,"['azure-synapse', 'azure-sqldw', 'azure-sql-data-warehouse', 'azure-sql']",202105,3,Azure Synapse
+Add environment parameter is Azure Synapse,False,1621326513,2021-05-18,2021,5,2,1,556,"['azure', 'azure-synapse']",202105,3,Azure Synapse
+Azure Synapse External Table Location parameterization with changing date format,True,1621355907,2021-05-18,2021,5,2,0,396,"['azure', 'azure-data-factory', 'azure-synapse']",202105,3,Azure Synapse
+How to extract filename from $$FILEPATH in Synapse copy activity?,False,1621476546,2021-05-20,2021,5,0,0,77,"['azure-data-factory', 'azure-synapse']",202105,3,Azure Synapse
+Can I backup Serverless SQL pool Database?,True,1621505386,2021-05-20,2021,5,1,2,272,"['serverless', 'azure-synapse']",202105,3,Azure Synapse
+mapping data flow column pattern type ==&#39;decimal&#39; not changing decimal columns,True,1621519459,2021-05-20,2021,5,1,0,133,"['azure-data-factory', 'azure-synapse', 'azure-data-flow']",202105,3,Azure Synapse
+Azure Synapse Studio ServerLess SQL Pool Access Error,True,1621519666,2021-05-20,2021,5,1,0,1102,"['azure', 'azure-synapse']",202105,3,Azure Synapse
+Can&#39;t Access Azure Synapse Spark Pool Databases on SSMS,False,1621541863,2021-05-20,2021,5,1,1,217,['azure-synapse'],202105,3,Azure Synapse
+How to sequence stored procedure process on Azure Data Factory?,True,1621567263,2021-05-21,2021,5,1,1,133,"['azure', 'stored-procedures', 'azure-pipelines', 'azure-data-factory', 'azure-synapse']",202105,3,Azure Synapse
+How to export and import synapse dedicated Sql pool using ARM template,False,1621603536,2021-05-21,2021,5,0,1,180,"['arm-template', 'azure-synapse']",202105,3,Azure Synapse
+Could SSMS shows actual execution plan in Azure Synapse?,True,1621765613,2021-05-23,2021,5,1,1,452,"['sql-server', 'azure', 'azure-synapse']",202105,3,Azure Synapse
+Azure Synapse Pipeline-Execute an executable on a onpremise server,True,1621767150,2021-05-23,2021,5,1,1,86,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'qliksense', 'azure-synapse']",202105,3,Azure Synapse
+Read only Delta between 2 versions of deltaLake,True,1621827198,2021-05-24,2021,5,1,1,155,"['apache-spark', 'pyspark', 'databricks', 'azure-synapse', 'delta-lake']",202105,3,Azure Synapse
+Merge / Union multiple files (.csv) with different schema (columns) into single file .csv - Azure Data Factory,False,1621899333,2021-05-25,2021,5,1,2,217,"['csv', 'azure-data-factory', 'azure-synapse', 'azure-data-flow']",202105,3,Azure Synapse
+SQL Server Serverless - Openrowset - Metadata functions?,True,1622016153,2021-05-26,2021,5,1,0,131,"['sql', 'metadata', 'azure-synapse', 'openrowset']",202105,3,Azure Synapse
+Polybase - Error converting data type VARCHAR to DATETIME,True,1622042896,2021-05-26,2021,5,1,0,449,"['sql-server', 'azure-synapse', 'polybase']",202105,3,Azure Synapse
+SqlServerRegionDoesNotAllowProvisioning: Unable to create Azure Synapse Analytics workspace,True,1622117782,2021-05-27,2021,5,1,1,265,"['azure', 'azure-resource-manager', 'azure-synapse']",202105,3,Azure Synapse
+Synapse notebook storage csv as a folder format,True,1622140624,2021-05-27,2021,5,1,0,399,"['python', 'azure', 'csv', 'azure-synapse']",202105,3,Azure Synapse
+List content of a directory in Spark code in Azure Synapse,True,1622151928,2021-05-27,2021,5,1,3,1000,"['scala', 'azure-synapse']",202105,3,Azure Synapse
+Run all cells above in a Spark notebook in Azure Synapse,True,1622159961,2021-05-28,2021,5,1,1,64,['azure-synapse'],202105,3,Azure Synapse
+Azure Data Warehouse Materialized view has problem when we create dacpac file in Visual studio 2019,True,1622202076,2021-05-28,2021,5,1,1,112,"['azure', 'azure-sql-database', 'azure-synapse', 'azure-sqldw']",202105,3,Azure Synapse
+What is the correct SELECT to read different language text from a single file in Synapse SQL Serverless,False,1622337091,2021-05-30,2021,5,0,0,36,"['tsql', 'azure-synapse']",202105,3,Azure Synapse
+Write dataframe to Azure EventHub with Synapse Spark using Kafka,False,1622446297,2021-05-31,2021,5,0,0,220,"['apache-spark', 'azure-eventhub', 'azure-synapse']",202105,3,Azure Synapse
+How to convert Azure Synapse Dataframe into JSON on Databricks?,True,1622446557,2021-05-31,2021,5,1,0,136,"['azure', 'pyspark', 'databricks', 'azure-databricks', 'azure-synapse']",202105,3,Azure Synapse
+"Azure Synapse Analytics tutorial: SQL syntax error &quot;Parse error at line: 5, column: 1: Incorrect syntax near &#39;WITH&#39;.&quot;",False,1622468108,2021-05-31,2021,5,2,1,1053,"['sql', 'azure-sql-database', 'azure-data-factory', 'azure-synapse']",202105,3,Azure Synapse
+Add additional column with current date during copy data tool in Azure synapse,False,1622536064,2021-06-01,2021,6,1,0,74,"['datetime', 'azure-synapse']",202106,3,Azure Synapse
+Azure Synapse Analytics parameterize notebook not working,False,1622544012,2021-06-01,2021,6,0,0,250,"['azure', 'azure-synapse']",202106,3,Azure Synapse
+Spark SQL passing variables - Synapse (Spark pool),False,1622577356,2021-06-01,2021,6,1,0,131,"['azure', 'apache-spark', 'parameters', 'apache-spark-sql', 'azure-synapse']",202106,3,Azure Synapse
+What is the Flow Run Size Limit of a notebook activity in Azure Synapse?,True,1622584039,2021-06-01,2021,6,1,2,198,['azure-synapse'],202106,3,Azure Synapse
+Parsing error when running source SQL from variable in Azure Data Flow,False,1622620416,2021-06-02,2021,6,0,0,217,"['azure', 'parsing', 'azure-data-factory', 'azure-synapse', 'azure-data-flow']",202106,3,Azure Synapse
+How to drop table or drop row on Databricks with Azure Synapse?,True,1622770860,2021-06-04,2021,6,1,1,519,"['azure', 'pyspark', 'databricks', 'azure-databricks', 'azure-synapse']",202106,3,Azure Synapse
+Can we create a table in Azure SQL pool that contain a autoincrement column?,True,1622805782,2021-06-04,2021,6,1,1,124,"['sql-server', 'azure', 'azure-synapse']",202106,3,Azure Synapse
+azure synapse mssparkutil in intellIj,False,1623065788,2021-06-07,2021,6,0,0,102,"['azure', 'scala', 'apache-spark', 'intellij-idea', 'azure-synapse']",202106,3,Azure Synapse
+Is there python support for Azure Synapse Analytics?,True,1623110913,2021-06-08,2021,6,1,0,412,"['azure', 'analytics', 'azure-synapse']",202106,3,Azure Synapse
+Synapse Analytics sql on-demand sync with spark pool is very slow to query,True,1623111918,2021-06-08,2021,6,1,1,150,"['apache-spark', 'azure-synapse', 'external-tables']",202106,3,Azure Synapse
+Template based Synapse Pipeline creation via REST API,False,1623114860,2021-06-08,2021,6,0,0,47,"['sdk', 'azure-pipelines', 'rest', 'azure-synapse']",202106,3,Azure Synapse
+Consuming nuget packages in azure synapse c# notebooks from nuget feed in Azure Devops,False,1623137352,2021-06-08,2021,6,2,1,66,"['azure-devops', 'nuget', 'nuget-package', 'azure-synapse']",202106,3,Azure Synapse
+403 on dataflow sink to Azure Synpase when the storage account is only accepting selected networks,False,1623145713,2021-06-08,2021,6,0,0,66,"['azure-storage', 'azure-data-factory', 'azure-synapse']",202106,3,Azure Synapse
+Apache Spark in Azure Synapse &#39;overwrite&#39; method Function not working,True,1623185301,2021-06-08,2021,6,1,0,218,"['apache-spark', 'azure-databricks', 'azure-synapse']",202106,3,Azure Synapse
+Polybase External Tables vs. OPENROWSET serverless sql pool architecture,True,1623206030,2021-06-09,2021,6,1,1,332,"['serverless', 'azure-synapse']",202106,3,Azure Synapse
+Why this T-SQL query doesn&#39;t work in Synapse?,True,1623252827,2021-06-09,2021,6,1,2,384,"['sql-server', 'tsql', 'parquet', 'azure-synapse']",202106,3,Azure Synapse
+Write Data to SQL DW from Apache Spark in Azure Synapse,True,1623255322,2021-06-09,2021,6,1,1,1244,"['azure-databricks', 'azure-synapse']",202106,3,Azure Synapse
+Apache Spark Column has a data type that cannot participate in a columnstore index with PySpark,False,1623324207,2021-06-10,2021,6,0,0,58,"['apache-spark', 'pyspark', 'azure-synapse']",202106,3,Azure Synapse
+Azure Data Flow- Source query push down,True,1623339305,2021-06-10,2021,6,1,1,36,"['azure', 'azure-data-factory', 'azure-databricks', 'azure-synapse', 'azure-data-flow']",202106,3,Azure Synapse
+"In Azure Synpase, how can I check how a table is distributed",True,1623419494,2021-06-11,2021,6,2,1,183,"['sql-server', 'azure', 'data-warehouse', 'azure-synapse']",202106,3,Azure Synapse
+Azure Synpase : How to trigger a sql when Scaling by sliding,False,1623437025,2021-06-11,2021,6,1,0,20,"['azure', 'azure-synapse']",202106,3,Azure Synapse
+Is it possible to run Bash Commands in Apache Spark with Azure Synapse with Magic Commands,True,1623528600,2021-06-12,2021,6,1,1,704,"['azure-databricks', 'azure-synapse']",202106,3,Azure Synapse
+Unable to map columns automatically from source csv files to Azure synapse table,False,1623543629,2021-06-13,2021,6,0,0,177,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202106,3,Azure Synapse
+make az cli synapse resume/pause fault tolerant,True,1623610329,2021-06-13,2021,6,1,0,44,"['azure-cli', 'azure-synapse']",202106,3,Azure Synapse
+Azure Dedicated SQL Pool (Formerly SQL DW) is going to be remove from Azure?,True,1623648795,2021-06-14,2021,6,1,-1,93,"['azure', 'azure-synapse']",202106,3,Azure Synapse
+ValueError: root_directory must be an absolute path: Error when access directory in ADLS from Synapse Workspace,False,1623786280,2021-06-15,2021,6,1,0,69,"['apache-spark', 'pyspark', 'azure-synapse', 'great-expectations']",202106,3,Azure Synapse
+How Azure Synapse stores data,False,1623791282,2021-06-15,2021,6,2,0,225,"['azure', 'azure-synapse']",202106,3,Azure Synapse
+Azure Synapse VNet Integration with disabled &quot;Managed Virtual Network&quot;,False,1623825017,2021-06-16,2021,6,1,0,510,"['azure', 'azure-virtual-network', 'azure-synapse']",202106,3,Azure Synapse
+How to use FOR XML Path in Azure Synapse,False,1623856266,2021-06-16,2021,6,2,1,461,"['azure-synapse', 'azure-sqldw']",202106,3,Azure Synapse
+"pyodbc.ProgrammingError &#39;42000&#39;, [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot find data type &#39;TEXT&#39;. (104220) (SQLExecDirectW)",False,1623861070,2021-06-16,2021,6,0,0,293,"['python', 'azure', 'azure-synapse']",202106,3,Azure Synapse
+External Data Source has an unresolved reference to Database Scoped Credential,False,1623876846,2021-06-16,2021,6,0,0,70,"['azure', 'visual-studio', 'azure-devops', 'sql-server-data-tools', 'azure-synapse']",202106,3,Azure Synapse
+Alternatives to Analysis Services in the new Synapse &amp; Power BI world?,True,1623911730,2021-06-17,2021,6,1,0,105,"['powerbi', 'azure-synapse', 'azure-analysis-services']",202106,3,Azure Synapse
+How to prevent error &quot;There is insufficient system memory in resource pool &#39;VDWFrontendPool&#39; to run this query&quot;,False,1623931187,2021-06-17,2021,6,0,0,92,"['sql', 'serverless', 'azure-synapse', 'openrowset']",202106,3,Azure Synapse
+External table of an external table,False,1623952646,2021-06-17,2021,6,1,0,163,"['azure-sql-database', 'azure-synapse']",202106,3,Azure Synapse
+Azure Synapse Stored Procedure from Azure Data Factory: is it a synchronous call?,True,1624003248,2021-06-18,2021,6,1,1,151,"['azure', 'stored-procedures', 'azure-data-factory', 'azure-synapse']",202106,3,Azure Synapse
+version control of Azure Synapse,False,1624309093,2021-06-21,2021,6,1,0,57,"['azure', 'azure-synapse']",202106,3,Azure Synapse
+Why does Azure Synapse limit the Storage Node size to 60?,True,1624340659,2021-06-22,2021,6,1,1,160,"['azure', 'azure-synapse', 'azure-sqldw']",202106,3,Azure Synapse
+Migrate azure databricks delta table to Azure Synapse SQL pool,True,1624354084,2021-06-22,2021,6,1,-2,811,"['apache-spark', 'azure-data-factory-2', 'azure-databricks', 'azure-synapse', 'azure-data-lake-gen2']",202106,3,Azure Synapse
+Azure Synapse Copy Data/Web activity returning gibberish,False,1624356449,2021-06-22,2021,6,1,0,61,"['azure', 'azure-data-factory', 'azure-synapse']",202106,3,Azure Synapse
+Why Synapse Analytics chooses a much bigger table to broadcast when joining,True,1624361016,2021-06-22,2021,6,1,1,127,['azure-synapse'],202106,3,Azure Synapse
+Azure Synapse Analytics Powershell or CLI to provision Managed Private Endpoint,True,1624381346,2021-06-22,2021,6,3,1,415,"['azure-powershell', 'azure-cli', 'azure-synapse']",202106,3,Azure Synapse
+PySpark (on Azure Synapse) - Dump each record as a single Blob file,False,1624416645,2021-06-23,2021,6,0,0,77,"['apache-spark', 'pyspark', 'apache-spark-sql', 'azure-synapse']",202106,3,Azure Synapse
+"DIU-hour, how is it calculated?",False,1624530531,2021-06-24,2021,6,0,0,13,"['azure-data-factory-2', 'azure-synapse', 'azure-data-factory-pipeline']",202106,3,Azure Synapse
+Create date dimension in Azure synapse analytics,True,1624610290,2021-06-25,2021,6,2,2,298,"['sql-server', 'azure', 'stored-procedures', 'azure-synapse']",202106,3,Azure Synapse
+&quot;Job failed due to reason: Unsupported type: binary. Details:java.lang.RuntimeException: Unsupported type: binary\n\tat...&quot;,False,1624724189,2021-06-26,2021,6,0,0,48,"['azure', 'azure-data-factory', 'azure-synapse']",202106,3,Azure Synapse
+I want to extract a XML value for a matching tag stored as varchar(max) in MS Azure Synapse,True,1624883735,2021-06-28,2021,6,1,1,162,"['azure', 'azure-synapse', 'azure-sql-server', 'azure-sql-data-warehouse']",202106,3,Azure Synapse
+Synapse pipeline - copy data from on-premises - reading entire database,False,1624944098,2021-06-29,2021,6,0,0,50,"['azure', 'performance', 'azure-data-lake', 'azure-synapse', 'data-ingestion']",202106,3,Azure Synapse
+store a simple string as text file in azure synapse (to data lake gen2),True,1624989288,2021-06-29,2021,6,1,0,340,"['python', 'azure', 'azure-synapse', 'azure-data-lake-gen2']",202106,3,Azure Synapse
+Controlling External Data Source creation in Synapse Analytics Serverless Pool,False,1625052022,2021-06-30,2021,6,0,0,168,"['sql-server', 'azure-sql-database', 'azure-synapse', 'serverless-architecture']",202106,3,Azure Synapse
+Can Azure Synapse query from external relational stores?,True,1625116170,2021-07-01,2021,7,1,0,51,"['azure', 'azure-synapse', 'polybase']",202107,3,Azure Synapse
+Azure Synapse Martialized view error on nullable expression,False,1625117474,2021-07-01,2021,7,0,0,64,"['sql-server', 'azure', 'tsql', 'azure-synapse', 'azure-sql-data-warehouse']",202107,3,Azure Synapse
+Data Lineage in purview insufficient,False,1625118519,2021-07-01,2021,7,1,0,466,"['azure-synapse', 'azure-purview', 'data-lineage']",202107,3,Azure Synapse
+Azure Synapse: Performant way to promote data from staging schema to prod schema?,True,1625158849,2021-07-01,2021,7,1,1,165,['azure-synapse'],202107,3,Azure Synapse
+Failure while Loading Parquet file to Azure Synapse,False,1625256505,2021-07-02,2021,7,0,0,142,"['azure-data-factory', 'parquet', 'azure-synapse']",202107,3,Azure Synapse
+Azure Synapse Analytics - Data Flow - Output to Multiple Files,False,1625262591,2021-07-02,2021,7,0,0,60,"['azure', 'file', 'output', 'dataflow', 'azure-synapse']",202107,3,Azure Synapse
+Azure Synapse Pipeline Notebook Return Error,False,1625390270,2021-07-04,2021,7,1,0,218,"['python', 'azure', 'apache-spark', 'azure-synapse', 'spark-notebook']",202107,3,Azure Synapse
+Intermediate storage of the relational data into Azure Data Lake,True,1625391480,2021-07-04,2021,7,1,-1,63,"['azure-data-lake', 'azure-synapse']",202107,3,Azure Synapse
+AZ synapse linked Dataverse tables disappearing in AZ data lake Gen2,False,1625632892,2021-07-07,2021,7,1,0,148,"['azure', 'azure-data-lake', 'azure-synapse', 'dataverse']",202107,3,Azure Synapse
+Source must be binary when sink is binary dataset,True,1625667820,2021-07-07,2021,7,1,1,223,"['azure', 'rest', 'azure-data-factory-2', 'azure-synapse', 'azure-data-lake-gen2']",202107,3,Azure Synapse
+ORGANIZE / DISTRIBTE BY with CREATE TABLE in MPP systems,False,1625729014,2021-07-08,2021,7,1,0,90,"['parallel-processing', 'teradata', 'netezza', 'azure-synapse']",202107,3,Azure Synapse
+Azure Derived Column - Create another column from the value of a column based on the value of another column,False,1625732087,2021-07-08,2021,7,2,2,90,"['azure', 'azure-data-factory', 'azure-synapse']",202107,3,Azure Synapse
+Performance of Azure Synapse Web Portal Vs Azure Data Studio,False,1625738717,2021-07-08,2021,7,0,0,83,"['sql', 'azure', 'data-warehouse', 'azure-synapse', 'azure-sql-data-warehouse']",202107,3,Azure Synapse
+The sql codes shown in the document is not running on azure synapse dedicate sql pool,True,1625766489,2021-07-08,2021,7,1,1,88,"['azure', 'azure-synapse', 'azure-sql-data-warehouse']",202107,3,Azure Synapse
+Azure Synapse Sql pool not receiving data from Azure Synapse Studio Dataflow,False,1625799459,2021-07-09,2021,7,1,0,81,"['azure', 'azure-synapse', 'azure-data-factory-pipeline']",202107,3,Azure Synapse
+Dynamic Partition Value SQL Server Azure Synapse,False,1625815200,2021-07-09,2021,7,1,2,436,"['sql-server', 'azure', 'tsql', 'partition', 'azure-synapse']",202107,3,Azure Synapse
+How to change ADF sink dataset Parquet file datatypes in Azure ADF Pipelines,False,1625848224,2021-07-09,2021,7,1,0,395,"['azure-data-factory', 'parquet', 'azure-data-factory-2', 'azure-synapse', 'polybase']",202107,3,Azure Synapse
+Synapse Analytics - Can&#39;t see the tables list in the dedicated sql pool - I can Query table &amp; tables not showing in SSMS,False,1625948068,2021-07-10,2021,7,1,0,207,"['azure', 'azure-sql-database', 'azure-synapse']",202107,3,Azure Synapse
+I want to create View from the system tables,True,1625995328,2021-07-11,2021,7,1,0,49,"['tsql', 'azure-synapse']",202107,3,Azure Synapse
+Retaining empty strings when using POLYBASE to copy data from Azure SQL db to Azure Synapse,True,1626243975,2021-07-14,2021,7,1,0,244,"['azure-sql-database', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse', 'polybase']",202107,3,Azure Synapse
+How to automate the activation of Synapse Workspace,True,1626245123,2021-07-14,2021,7,2,0,235,"['terraform', 'terraform-provider-azure', 'azure-synapse']",202107,3,Azure Synapse
+Azure Synapse - How to retrieve metadata info to generate my own CREATE TABLE statement via JDBC,False,1626275502,2021-07-14,2021,7,0,0,18,"['java', 'azure', 'jdbc', 'ddl', 'azure-synapse']",202107,3,Azure Synapse
+Azure Synapse. Insert unique keys in a hash distributed table,False,1626351541,2021-07-15,2021,7,0,0,61,"['sql-insert', 'azure-synapse', 'unique-key']",202107,3,Azure Synapse
+Synapse Spark - Deltalake configs for Schema evolution and write optimizations,False,1626697262,2021-07-19,2021,7,0,3,72,['azure-synapse'],202107,3,Azure Synapse
+Handle Null values in Azure Data factory Pipeline,True,1626698417,2021-07-19,2021,7,1,0,1412,"['azure', 'null', 'azure-data-factory-2', 'azure-synapse', 'azure-data-lake-gen2']",202107,3,Azure Synapse
+How to use DECLARE in a stored procedure,True,1626702483,2021-07-19,2021,7,1,1,110,"['sql', 'stored-procedures', 'ssms', 'declare', 'azure-synapse']",202107,3,Azure Synapse
+Azure Synapse. Hash distributed table on a column with unique values,False,1626702725,2021-07-19,2021,7,1,0,168,"['azure', 'distribution', 'azure-synapse']",202107,3,Azure Synapse
+How to trigger Slack notifications as a Validation Action in Great_Expectations,False,1626716177,2021-07-19,2021,7,1,0,94,"['apache-spark', 'pyspark', 'azure-databricks', 'azure-synapse']",202107,3,Azure Synapse
+when to use multiple azure synapse workspaces?,True,1626786307,2021-07-20,2021,7,1,2,411,['azure-synapse'],202107,3,Azure Synapse
+Is it possible to deploy Azure Synapse workspace roles with arm?,False,1626820134,2021-07-20,2021,7,1,0,174,"['azure', 'arm-template', 'azure-synapse']",202107,3,Azure Synapse
+Duplicate Users listed in Azure Synapse Workspace,False,1626821340,2021-07-20,2021,7,1,1,30,"['azure', 'serverless', 'azure-synapse']",202107,3,Azure Synapse
+Passing one of the Header value from Rest API request to iterate over getting the response while copying data from API to azure synapse,False,1626851754,2021-07-21,2021,7,0,1,51,"['azure', 'rest', 'azure-synapse']",202107,3,Azure Synapse
+Get the blob URL of output file written by sink operation in a Data Flow Activity - Azure Synapse Analytics,False,1627030249,2021-07-23,2021,7,1,0,71,"['azure-synapse', 'azure-data-flow']",202107,3,Azure Synapse
+JSON_VALUE error on azure data factory log analytics JSON files,False,1627032619,2021-07-23,2021,7,0,1,69,"['json', 'parsing', 'logging', 'azure-data-factory', 'azure-synapse']",202107,3,Azure Synapse
+Why can some users see in a Synapse Workspace see a Linked Azure Data Lake Gen 2 resource and others can&#39;t?,False,1627322837,2021-07-26,2021,7,1,0,111,"['azure', 'azure-active-directory', 'azure-synapse', 'azure-data-lake-gen2', 'azure-rbac']",202107,3,Azure Synapse
+&quot;Distribution Option&quot; error in &quot;CREATE TABLE table AS&quot; in SQL Server,True,1627391008,2021-07-27,2021,7,1,0,413,"['sql', 'sql-server', 'database', 'azure-synapse']",202107,3,Azure Synapse
+Dynamic Creation of External Tables in Synapse,True,1627393045,2021-07-27,2021,7,1,0,294,"['stored-procedures', 'azure-data-factory', 'parquet', 'azure-data-lake', 'azure-synapse']",202107,3,Azure Synapse
+Azure Data Flow: Parse nested list of objects from JSON String,True,1627396977,2021-07-27,2021,7,1,0,496,"['json', 'azure-data-factory', 'azure-synapse', 'azure-data-flow']",202107,3,Azure Synapse
+"Cannot find the CREDENTIAL &#39;&lt;db_scoped_creds&gt;&#39;, because it does not exist or you do not have permission",True,1627445072,2021-07-28,2021,7,1,0,445,"['azure', 'azure-synapse']",202107,3,Azure Synapse
+SqlAzureDacpacDeployment adding extra clustered indexes,False,1627450472,2021-07-28,2021,7,0,0,35,"['azure-pipelines', 'azure-synapse', 'dacpac']",202107,3,Azure Synapse
+Dynamic Stored Procedure using openrowser(BULK) in Synapse,False,1627456684,2021-07-28,2021,7,0,0,63,"['sql', 'azure', 'sql-server-2008', 'stored-procedures', 'azure-synapse']",202107,3,Azure Synapse
+azure synapse: connecting to serverless sql pool from databricks - Failed to find data source: com.databricks.spark.sqldw,True,1627487154,2021-07-28,2021,7,1,1,696,"['azure-databricks', 'azure-synapse']",202107,3,Azure Synapse
+Azure synapse - Share data across notebook using createorreplaceglobaltempview - pyspark,False,1627493719,2021-07-28,2021,7,0,0,26,"['azure', 'jupyter-notebook', 'azure-synapse']",202107,3,Azure Synapse
+How to locate and install Great_Expectations .JAR file in Azure Synapse WorkSpace,False,1627552141,2021-07-29,2021,7,1,0,95,"['apache-spark', 'azure-synapse', 'great-expectations']",202107,3,Azure Synapse
+CI/CD ADF Synapse - Modify URL in Key Vault Linked service,True,1627581857,2021-07-29,2021,7,2,0,72,"['azure-devops', 'continuous-integration', 'azure-keyvault', 'azure-synapse']",202107,3,Azure Synapse
+Synapse Notebook reference - Call Synapse notebook from another with parameters,True,1627592897,2021-07-29,2021,7,2,0,663,"['python', 'azure-synapse']",202107,3,Azure Synapse
+Spark/Synapse Optimal handling huge gzipped xml file (+600mb compressed size),False,1627760326,2021-07-31,2021,7,2,1,209,"['scala', 'apache-spark', 'azure-synapse']",202107,3,Azure Synapse
+DataLake Files - Last Modified date time,False,1627936880,2021-08-02,2021,8,1,0,159,"['python', 'azure-data-lake', 'azure-synapse']",202108,3,Azure Synapse
+azure synapse - serverless sql pool databases not visible in data tab,True,1627983271,2021-08-03,2021,8,1,0,98,['azure-synapse'],202108,3,Azure Synapse
+azure synapse - serverless sql pool databases not visible in data tab,True,1627983271,2021-08-03,2021,8,1,0,98,['azure-synapse'],202108,3,Azure Synapse
+How to perform OR inside PATINDEX,True,1627998786,2021-08-03,2021,8,3,1,42,"['tsql', 'azure-synapse', 'azure-sqldw']",202108,3,Azure Synapse
+How to create a Python Wheel Or Determine what modules / libraries are within a Python Wheel,False,1628070805,2021-08-04,2021,8,2,0,167,"['python-3.x', 'apache-spark', 'azure-synapse', 'great-expectations']",202108,3,Azure Synapse
+ERROR: No matching distribution found for tqdm&gt;=4.59.0 (from great-expectations==0.13.24),False,1628082048,2021-08-04,2021,8,0,0,58,"['python-3.x', 'apache-spark', 'azure-synapse', 'great-expectations']",202108,3,Azure Synapse
+How to Define Data Warehouse units in Synapse?,False,1628147409,2021-08-05,2021,8,2,1,281,"['data-warehouse', 'azure-synapse', 'azure-sql-data-warehouse']",202108,3,Azure Synapse
+Azure Data Flow - uuid() Function generates different UUIDs for same row after join,False,1628179524,2021-08-05,2021,8,0,0,176,"['apache-spark', 'azure-data-factory', 'azure-synapse', 'azure-data-flow']",202108,3,Azure Synapse
+Best methods for processing a rule hierarchy/tree,True,1628253660,2021-08-06,2021,8,1,1,32,"['azure-synapse', 'azure-sqldw']",202108,3,Azure Synapse
+How to write to Synapse dedicated sql pool,False,1628288019,2021-08-06,2021,8,1,1,213,"['python', 'apache-spark', 'azure-synapse']",202108,3,Azure Synapse
+Copy activity taking more times to copy the data from On-prem Oracle database to Azure Synapse Analytics,False,1628482687,2021-08-09,2021,8,1,0,131,"['oracle', 'azure', 'azure-data-factory', 'azure-synapse']",202108,3,Azure Synapse
+Why Synapse is not working with my query?,True,1628523605,2021-08-09,2021,8,1,0,145,"['sql', 'azure', 'azure-synapse']",202108,3,Azure Synapse
+How to find the size (in MB/GB) of materialized view in Azure Dedicated SQL Pool / Azure Synapse,True,1628581607,2021-08-10,2021,8,1,1,111,"['azure', 'azure-sql-database', 'azure-synapse']",202108,3,Azure Synapse
+How to check materialized view data storage and maintenance cost in Azure Synapse?,True,1628591548,2021-08-10,2021,8,1,0,73,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+PySpark withCoumn Function to pull out certain fields,True,1628601557,2021-08-10,2021,8,1,0,30,"['apache-spark', 'pyspark', 'azure-synapse']",202108,3,Azure Synapse
+What is the cause of LIBRARY_MANAGEMENT_FAILED while trying to run notebook with custom library on synapse?,True,1628695060,2021-08-11,2021,8,1,2,87,"['azure', 'azure-synapse', 'spark-packages']",202108,3,Azure Synapse
+COPY INTO statement threw 110806;A distributed query failed,False,1628749123,2021-08-12,2021,8,0,0,44,"['azure', 'tsql', 'azure-synapse']",202108,3,Azure Synapse
+Synapse Notebook reference - how to use %run,False,1628783401,2021-08-12,2021,8,2,0,426,['azure-synapse'],202108,3,Azure Synapse
+Blob storage folders bckups,False,1628836186,2021-08-13,2021,8,1,0,17,['azure-synapse'],202108,3,Azure Synapse
+"When you publish changes to an Azure Synapse workspace, are currently running pipelines interrupted?",False,1628869451,2021-08-13,2021,8,1,0,50,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+Loading data into Azure Synapse Analytics from Azure SQL Database,True,1629119993,2021-08-16,2021,8,1,0,71,"['azure', 'azure-sql-database', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202108,3,Azure Synapse
+Loading Data from Azure Synapse Database into a DataFrame with Notebook,True,1629200756,2021-08-17,2021,8,1,1,536,"['apache-spark', 'azure-synapse']",202108,3,Azure Synapse
+how to create Synapse serverless pool partition table similar to hive,False,1629226683,2021-08-17,2021,8,1,0,68,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+Azure Synapse Analytics Dedicated SQL pool - IIF statement is not working,True,1629269538,2021-08-18,2021,8,2,0,281,"['sql', 'azure', 'azure-synapse']",202108,3,Azure Synapse
+Synapse Query from Delta Lake Databricks with SSMS,True,1629272422,2021-08-18,2021,8,1,0,70,"['ssms', 'azure-blob-storage', 'databricks', 'azure-synapse', 'delta-lake']",202108,3,Azure Synapse
+Error when write spark dataframe from Databricks into Azure Synapse,True,1629476112,2021-08-20,2021,8,3,-1,417,"['apache-spark', 'jdbc', 'pyspark', 'databricks', 'azure-synapse']",202108,3,Azure Synapse
+Unable to access Spark table with decimal type column from Azure Synapse SQL pool,False,1629649077,2021-08-22,2021,8,0,0,55,"['python', 'apache-spark', 'pyspark', 'apache-spark-sql', 'azure-synapse']",202108,3,Azure Synapse
+ARM template for synapse auditing successfully ran but not reflecting the auditing configurations on the azure portal,False,1629696905,2021-08-23,2021,8,0,0,47,"['azure', 'azure-devops', 'arm-template', 'azure-synapse', 'auditing']",202108,3,Azure Synapse
+Azure Synapse: Target Spark pool specified in Spark job definition is not in succeeded state. Current state: Provisioning,True,1629714833,2021-08-23,2021,8,1,0,223,"['apache-spark', 'package', 'azure-synapse']",202108,3,Azure Synapse
+SQL - use offset/fetch with group by to divide a table in split and import a single split,False,1629722220,2021-08-23,2021,8,1,0,78,"['sql', 'ssms', 'offset', 'azure-synapse']",202108,3,Azure Synapse
+How to use Terraform to approve a Managed Private Endpoint on a Blob Storage ADLS Gen2?,True,1629748545,2021-08-23,2021,8,1,0,334,"['azure', 'terraform', 'azure-synapse', 'azure-rm']",202108,3,Azure Synapse
+Not able to create user defined function in Azure Synapse Studio,False,1629784322,2021-08-24,2021,8,1,0,83,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+Azure Synapse: Upload directory of py files in Spark job reference files,False,1629805922,2021-08-24,2021,8,1,0,59,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+Create Azure Synapse Pipeline using Terraform,True,1629923246,2021-08-25,2021,8,1,0,132,"['azure', 'azure-devops', 'terraform', 'terraform-provider-azure', 'azure-synapse']",202108,3,Azure Synapse
+display(df.limit(10)) does not always work in synapse notebooks,False,1629981668,2021-08-26,2021,8,1,0,41,"['azure-synapse', 'spark-notebook']",202108,3,Azure Synapse
+Rename a file column name in Azure Synapse,True,1630008259,2021-08-26,2021,8,2,1,75,"['azure', 'azure-synapse']",202108,3,Azure Synapse
+Synapse Analytics: Can I execute a synapse pipeline (defined in the workspace) from ADF v2 pipeline,False,1630132627,2021-08-28,2021,8,2,-1,119,['azure-synapse'],202108,3,Azure Synapse
+Azure Purview Scan of Azure Synapse Workspace Serverless pool not returning schema,False,1630368102,2021-08-31,2021,8,0,0,45,"['azure', 'azure-synapse', 'azure-purview']",202108,3,Azure Synapse
+How to get error details logs in log analytics workspace for synapse analytics workspace,True,1630410199,2021-08-31,2021,8,2,0,599,"['azure', 'powerbi', 'azure-data-factory', 'azure-log-analytics', 'azure-synapse']",202108,3,Azure Synapse
+Azure Synapse: Cannot bulk load because the file could not be opened. Operating system error code 12(The access code is invalid.),True,1630420725,2021-08-31,2021,8,2,1,187,"['azure', 'azure-synapse', 'azure-data-lake-gen2']",202108,3,Azure Synapse
+SQL Synapse Compare data between Column(multiple values) and Column(multiple values),True,1630478590,2021-09-01,2021,9,1,0,60,"['sql-server', 'azure-synapse']",202109,3,Azure Synapse
+SSMS Import / Export Data Wizard to Azure Synapse Issue,True,1630503310,2021-09-01,2021,9,2,1,76,"['ssms', 'azure-synapse']",202109,3,Azure Synapse
+Are you able to use the Data Flows activity in a Managed VNet Synapse Workspace?,False,1630515946,2021-09-01,2021,9,1,0,65,"['azure', 'azure-data-factory', 'azure-synapse', 'vnet']",202109,3,Azure Synapse
+Azure Synapse Serverless -- Unexpected end of stream loading parquet in Azure Synapse Serverless pool,True,1630532865,2021-09-01,2021,9,3,1,235,"['tsql', 'parquet', 'azure-synapse']",202109,3,Azure Synapse
+Convert Rows to Columns involving Dates,True,1630908263,2021-09-06,2021,9,1,-1,76,"['sql', 'sql-server', 'tsql', 'azure-sql-database', 'azure-synapse']",202109,3,Azure Synapse
+PySpark missing column name error with numerical column names in an Azure Synapse analytics notebook,False,1630917544,2021-09-06,2021,9,1,1,124,"['pyspark', 'azure-synapse']",202109,3,Azure Synapse
+Access issue with Azure Synapse studio,False,1630938021,2021-09-06,2021,9,3,0,819,"['azure', 'azure-synapse']",202109,3,Azure Synapse
+Create External Table Error while converting VARCHAR to Datetime and VARCHAR to Decimal,False,1631058450,2021-09-08,2021,9,1,0,87,"['sql-server', 'tsql', 'azure-synapse']",202109,3,Azure Synapse
+How do i extract texts from string and save it as two columns and add character at the end for third column,True,1631087320,2021-09-08,2021,9,1,1,51,"['tsql', 'azure-synapse']",202109,3,Azure Synapse
+How can I calculate Azure Synapse pipeline costs,True,1631115697,2021-09-08,2021,9,1,0,96,['azure-synapse'],202109,3,Azure Synapse
+Azure Data Factory flatten json with dynamic columns,False,1631118169,2021-09-08,2021,9,0,0,55,"['json', 'azure-data-factory-2', 'azure-synapse']",202109,3,Azure Synapse
+Update column based on itself (having only a initial value),False,1631127255,2021-09-08,2021,9,1,0,84,"['sql', 'sql-server', 'azure-sql-database', 'azure-synapse', 'azure-sqldw']",202109,3,Azure Synapse
+AZURE SYNAPSE ANALYTICS - HOW TO RELATE TABLES?,True,1631220055,2021-09-09,2021,9,1,0,40,"['azure', 'cloud', 'azure-synapse', 'dimensional-modeling', 'azure-sql-data-warehouse']",202109,3,Azure Synapse
+How to improve write to synapse in Spark?,False,1631506079,2021-09-13,2021,9,0,0,194,"['apache-spark', 'pyspark', 'apache-spark-sql', 'databricks', 'azure-synapse']",202109,3,Azure Synapse
+Create Service Principle Connection from Crystal Reports to Azure Synapse Analytics,True,1631533960,2021-09-13,2021,9,1,2,30,"['crystal-reports', 'azure-synapse']",202109,3,Azure Synapse
+How to Trigger ADF Pipeline from Synapse Pipelines,True,1631545651,2021-09-13,2021,9,1,0,287,"['azure', 'triggers', 'azure-data-factory', 'azure-synapse', 'azure-data-factory-pipeline']",202109,3,Azure Synapse
+Creating efficiently a dictionary in pyspark using list derived from df columns,False,1631580965,2021-09-14,2021,9,0,0,49,"['list', 'apache-spark', 'pyspark', 'user-defined-functions', 'azure-synapse']",202109,3,Azure Synapse
+Azure synapse Dedicated SQL Pools - Getting table &quot;index hints&quot; working,False,1631608174,2021-09-14,2021,9,1,1,157,"['azure-sql-database', 'query-optimization', 'azure-synapse']",202109,3,Azure Synapse
+Write data to Azure Data Lake Storage Gen 2 using Azure Synapse Analytics notebook,True,1631742206,2021-09-15,2021,9,1,3,689,"['apache-spark', 'pyspark', 'azure-synapse']",202109,3,Azure Synapse
+Where can I find the new azure data factory customer feedback page?,True,1631757881,2021-09-16,2021,9,1,0,69,"['azure-data-factory-2', 'azure-synapse', 'azure-purview']",202109,3,Azure Synapse
+Reading JSON in Azure Synapse,True,1631779985,2021-09-16,2021,9,1,2,600,"['json', 'csv', 'tsql', 'azure-synapse']",202109,3,Azure Synapse
+"OnDemand SQL update using pyspark for Role, user management",False,1631869787,2021-09-17,2021,9,0,0,46,"['sql', 'azure', 'pyspark', 'azure-synapse', 'ondemand']",202109,3,Azure Synapse
+Solving Timeout Issue with Azure Synapse/ADF Pipeline of Pipelines,False,1631900050,2021-09-17,2021,9,0,0,59,"['azure', 'timeout', 'azure-data-factory', 'azure-synapse', 'azure-data-factory-pipeline']",202109,3,Azure Synapse
+Write data to specific partitions in Azure Dedicated SQL pool,False,1632240955,2021-09-21,2021,9,1,0,201,"['apache-spark', 'azure-sql-database', 'azure-databricks', 'azure-synapse', 'azure-sqldw']",202109,3,Azure Synapse
+Does Azure Synapse SQL DW deployment is similar to SQL DB deployment?,True,1632288934,2021-09-22,2021,9,2,1,132,"['azure-devops', 'azure-sql-database', 'azure-synapse', 'azure-sqldw', 'azure-sql-data-warehouse']",202109,3,Azure Synapse
+Is it possible to fetch Azure AAD users and groups in spark code?,True,1632305525,2021-09-22,2021,9,2,0,56,"['azure', 'pyspark', 'azure-active-directory', 'azure-synapse']",202109,3,Azure Synapse
+Azure Synapse Private Endpoint Approve,True,1632328278,2021-09-22,2021,9,2,0,144,"['bash', 'azure', 'azure-synapse']",202109,3,Azure Synapse
+Azure Visual Studio 2019 failed to push to Azure DevOps Git,False,1632388130,2021-09-23,2021,9,1,0,113,"['azure-devops', 'ssl-certificate', 'repository', 'azure-synapse', 'azure-sql-server']",202109,3,Azure Synapse
+How to convert Jsonstring column in pyspark dataframe to jsonobject?,False,1632426355,2021-09-23,2021,9,1,0,59,"['python', 'apache-spark', 'pyspark', 'azure-cosmosdb', 'azure-synapse']",202109,3,Azure Synapse
+Synapse Bulk update - Pipeline shows migrated from ADF in activity log but not showing in SYNAPSE,False,1632495522,2021-09-24,2021,9,0,0,37,"['azure-data-factory', 'databricks', 'azure-synapse']",202109,3,Azure Synapse
+Migrate ADF - Datasets which are linked with Linked Services and Pipelines to Synapse Analytics,True,1632507077,2021-09-24,2021,9,1,0,141,"['azure-data-factory-2', 'azure-databricks', 'azure-synapse']",202109,3,Azure Synapse
+How does Data from Synapse SQL DW gets transferred to Power BI?,False,1632722490,2021-09-27,2021,9,1,0,86,"['azure-virtual-network', 'azure-synapse', 'powerbi-datasource', 'azure-sqldw', 'azure-security']",202109,3,Azure Synapse
+Spark errors when writing to Synapse DWH pool,True,1632758392,2021-09-27,2021,9,2,0,93,"['apache-spark', 'apache-spark-sql', 'azure-sql-database', 'databricks', 'azure-synapse']",202109,3,Azure Synapse
+Azure Synapse Link for Dataverse - how to handle schema evolution,False,1632787031,2021-09-28,2021,9,0,0,47,"['azure-synapse', 'dataverse']",202109,3,Azure Synapse
+Issue with using alembic with Azure Synapse SQL DW,True,1632841217,2021-09-28,2021,9,1,2,31,"['sql-server', 'sqlalchemy', 'pyodbc', 'alembic', 'azure-synapse']",202109,3,Azure Synapse
+"Error Azure Synapse Notebook: ImportError: tokenizers&gt;=0.10.1,&lt;0.11 is required for a normal functioning of this module, but found tokenizers==0.9.2",False,1632855224,2021-09-28,2021,9,1,0,124,"['python', 'azure', 'huggingface-transformers', 'azure-synapse']",202109,3,Azure Synapse
+Alembic Primary Key issue with mssql ( Azure Synapse SQL DW ),False,1632857353,2021-09-28,2021,9,2,0,76,"['sqlalchemy', 'alembic', 'azure-synapse']",202109,3,Azure Synapse
+Azure Synapse: Error: Unable to infer schema for CSV. It must be specified manually,False,1632863018,2021-09-28,2021,9,0,0,46,"['apache-spark', 'azure-synapse']",202109,3,Azure Synapse
+Error accessing Key Vault while executing Azure Synapse Notebook via Synapse Pipelines,True,1632912878,2021-09-29,2021,9,1,1,228,"['runtime-error', 'azure-data-factory', 'azure-keyvault', 'azure-synapse']",202109,3,Azure Synapse
+An expression cannot be used with default constraints. Specify only constants for default constraints in azure synapse sql,True,1632990600,2021-09-30,2021,9,1,1,126,"['sql', 'azure', 'datetime', 'default', 'azure-synapse']",202109,3,Azure Synapse
+numpy from pyspark.sql.dataframe.DataFrame convert to string array,True,1633019287,2021-09-30,2021,9,1,0,41,"['arrays', 'pyspark', 'azure-synapse']",202109,3,Azure Synapse
+Flatten dynamic json in ADF with schema drift enabled at sournce,False,1633033076,2021-09-30,2021,9,0,0,85,"['json', 'azure', 'scala', 'azure-data-factory', 'azure-synapse']",202109,3,Azure Synapse
+Partition csv source in Azure Synapse copy activity,False,1633085733,2021-10-01,2021,10,0,0,85,"['azure-data-factory', 'azure-synapse']",202110,3,Azure Synapse
+How to read parquet file from synapse dedicated SQL pool,False,1633095614,2021-10-01,2021,10,0,0,186,"['azure-synapse', 'dedicated']",202110,3,Azure Synapse
+copy and change data type of multiple files with different schema in data factory,False,1633111496,2021-10-01,2021,10,0,1,30,"['azure', 'azure-data-factory', 'azure-synapse']",202110,3,Azure Synapse
+Azure Synapse: PySpark read from External table not working,False,1633230878,2021-10-03,2021,10,0,0,59,"['pyspark', 'apache-spark-sql', 'azure-synapse']",202110,3,Azure Synapse
+Azure Synapse Polybase/External Tables - Can we get the line numbers from a file while we create an external table,False,1633331344,2021-10-04,2021,10,1,0,86,"['sql', 'azure', 'azure-synapse', 'external-tables']",202110,3,Azure Synapse
+How do I generate the DDL file need for Azure Synapse Pathways,True,1633356411,2021-10-04,2021,10,1,1,105,['azure-synapse'],202110,3,Azure Synapse
+How to create a blank &quot;Delta&quot; Lake table schema in Azure Data Lake Gen2 using Azure Synapse Serverless SQL Pool?,False,1633457355,2021-10-05,2021,10,1,0,302,"['azure-synapse', 'delta-lake', 'azure-data-lake-gen2', 'azure-data-flow', 'scd2']",202110,3,Azure Synapse
+Pyspark dataframe error in Synapase notebook,False,1633475392,2021-10-06,2021,10,0,3,84,"['apache-spark', 'pyspark', 'apache-spark-sql', 'azure-synapse']",202110,3,Azure Synapse
+Synapse template with public access disabled,False,1633478956,2021-10-06,2021,10,0,0,39,"['azure', 'arm-template', 'azure-synapse']",202110,3,Azure Synapse
+OPENJSON collation in Azure Synapse causes a collation conflict error,True,1633526989,2021-10-06,2021,10,1,3,60,"['azure-synapse', 'open-json']",202110,3,Azure Synapse
+Cursor support is not an implemented feature for SQL Server Parallel DataWarehousing TDS endpoint,True,1633547588,2021-10-06,2021,10,1,0,183,"['sql-server', 'tsql', 'azure-synapse']",202110,3,Azure Synapse
+Dynamic REST calls in Azure Synapse Pipeline,True,1633558815,2021-10-06,2021,10,2,0,213,"['azure', 'rest', 'azure-data-factory', 'azure-synapse']",202110,3,Azure Synapse
+How to create Pipeline in azure synapse analytics project Using Rest API?,False,1633583365,2021-10-07,2021,10,1,0,113,"['azure', '.net-core', 'azure-synapse']",202110,3,Azure Synapse
+Synapse - Can&#39;t properly deploy SQL linked server,False,1633609916,2021-10-07,2021,10,0,1,67,"['azure-devops', 'yaml', 'azure-synapse']",202110,3,Azure Synapse
+DBT(Data Build Tools) - drop the default database prefix that gets added to each model on deployment,True,1633673001,2021-10-08,2021,10,2,1,138,"['database', 'data-modeling', 'azure-synapse', 'dbt', 'fishtown-analytics']",202110,3,Azure Synapse
+How to convert a Hive SQL script to a Spark SQL Synapse Notebook,False,1633709256,2021-10-08,2021,10,0,1,34,['azure-synapse'],202110,3,Azure Synapse
+Query fails with &quot;java.lang.IllegalStateException: SparkContext has been shutdown&quot;,False,1633717859,2021-10-08,2021,10,0,0,53,"['apache-spark', 'spark-streaming', 'illegalstateexception', 'azure-synapse']",202110,3,Azure Synapse
+How to read *.txt files in Azure Data Factory?,False,1633733486,2021-10-08,2021,10,1,0,170,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse', 'azure-data-factory-pipeline']",202110,3,Azure Synapse
+Partition data while writing to delta sink,False,1633849589,2021-10-10,2021,10,1,0,29,"['azure-synapse', 'data-partitioning', 'delta-index']",202110,3,Azure Synapse
+How to execute a trigger based on Blob created in Azure Data Factory?,True,1633971862,2021-10-11,2021,10,1,0,70,"['azure', 'azure-blob-storage', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202110,3,Azure Synapse
+Unable to connect to Azure Synapse DB via JDBC using authentication=ActiveDirectoryPassword,False,1634015306,2021-10-12,2021,10,1,0,69,"['maven', 'jdbc', 'java-8', 'azure-active-directory', 'azure-synapse']",202110,3,Azure Synapse
+How to get meta data of the pipeline in DataFlow of Azure data factory? Want to create a debug pipeline,True,1634023613,2021-10-12,2021,10,1,0,199,"['azure', 'azure-pipelines', 'azure-data-factory', 'azure-synapse', 'azure-data-flow']",202110,3,Azure Synapse
+Azure Synapse - PySpark copy data between dataframes,False,1634071562,2021-10-12,2021,10,0,0,32,"['pyspark', 'azure-synapse']",202110,3,Azure Synapse
+Azure Synapse Analytics failed to execute the JDBC query produced by the connector with Databricks on Apache Spark,False,1634075219,2021-10-12,2021,10,0,0,138,"['apache-spark', 'azure-databricks', 'azure-synapse']",202110,3,Azure Synapse
+How to Flatten a semicolon Array properly in Azure Data Factory?,True,1634093824,2021-10-13,2021,10,1,0,84,"['azure', 'azure-pipelines', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202110,3,Azure Synapse
+Is there any equivalent is there for &#39;sp_refreshview&#39; in Azure Synapse Dedicated SQL Pool,True,1634111152,2021-10-13,2021,10,1,0,58,"['azure', 'azure-synapse', 'azure-sql-data-warehouse', 'sql-data-warehouse']",202110,3,Azure Synapse
+Reading/writing data in one azure gen2 storage account in multiple paths using multiple linked services in synapse notebook,False,1634117791,2021-10-13,2021,10,1,0,213,"['azure', 'azure-synapse']",202110,3,Azure Synapse
+Synapse spark select column with space,True,1634134469,2021-10-13,2021,10,2,1,135,"['scala', 'apache-spark', 'azure-synapse']",202110,3,Azure Synapse
+Install sql-spark-connector library to Azure Synapse Apache Spark,False,1634208418,2021-10-14,2021,10,1,0,39,"['apache-spark', 'azure-synapse']",202110,3,Azure Synapse
+How to data transfer between external source and azure synapse analytics,False,1634209444,2021-10-14,2021,10,1,0,49,"['python', 'azure', 'azure-synapse']",202110,3,Azure Synapse
+Get the full path of a file in azure synapse studio using pyspark,False,1634302257,2021-10-15,2021,10,1,0,48,"['azure', 'azure-blob-storage', 'azure-synapse']",202110,3,Azure Synapse
+Retrieving last record in each group from an external table with Azure Synapse Serverless Pool,False,1634442974,2021-10-17,2021,10,2,1,109,"['azure', 'tsql', 'greatest-n-per-group', 'azure-synapse']",202110,3,Azure Synapse
+How to install packages in Azure Synapse C# notebooks?,True,1634550824,2021-10-18,2021,10,1,0,164,"['c#', '.net', 'nuget', 'azure-synapse']",202110,3,Azure Synapse
+Does Azure Synapse Link to Cosmos DB work with Managed Identity?,False,1634585059,2021-10-18,2021,10,1,0,75,"['azure-cosmosdb', 'azure-synapse']",202110,3,Azure Synapse
+"Azure Synapse Studio Not Loading - Failure to load one or more resources due to server error, error code 500",True,1634621486,2021-10-19,2021,10,1,0,250,"['azure', 'azure-synapse']",202110,3,Azure Synapse
+Azure Synapse Serverless External table from Parquet nvarchar limit problem,True,1634644752,2021-10-19,2021,10,1,1,348,"['tsql', 'parquet', 'azure-synapse', 'external-tables']",202110,3,Azure Synapse
+Cancel Synapse pipeline from the pipeline itself,True,1634646843,2021-10-19,2021,10,1,1,44,"['api', 'pipeline', 'azure-synapse']",202110,3,Azure Synapse
+Unable to read from Azure synapse using Databricks with master key error,True,1634725607,2021-10-20,2021,10,1,0,80,"['azure-sql-database', 'azure-databricks', 'azure-synapse', 'azure-sqldw']",202110,3,Azure Synapse
+How to append the dataframe data into dedicated SQL pool through Spark pool of synapse?,False,1634732329,2021-10-20,2021,10,1,1,57,['azure-synapse'],202110,3,Azure Synapse
+How to query latest version of Delta Lake table in Azure Synapse?,True,1634822946,2021-10-21,2021,10,1,0,86,"['azure-synapse', 'delta-lake']",202110,3,Azure Synapse
+How to migrate .trn files into azure databases?,False,1634888997,2021-10-22,2021,10,1,0,33,"['azure-sql-database', 'azure-data-factory', 'azure-data-lake', 'azure-synapse', 'azure-sql-data-warehouse']",202110,3,Azure Synapse
+How to encodeURI an entire column in Synapse Analytics?,False,1634914166,2021-10-22,2021,10,0,0,13,['azure-synapse'],202110,3,Azure Synapse
+Unable to drop Serverless database in Synapse Studio,False,1634947799,2021-10-23,2021,10,0,0,18,"['database', 'azure-synapse', 'drop']",202110,3,Azure Synapse
+Synapse SQL: Merging staging table into primary table and auto-increment identity,False,1635178339,2021-10-25,2021,10,2,1,97,"['sql', 'azure-synapse']",202110,3,Azure Synapse
+Write dataframe to SQL dedicated database using Synapse Analytics,True,1635241180,2021-10-26,2021,10,1,0,387,"['pyspark', 'apache-spark-sql', 'azure-synapse']",202110,3,Azure Synapse
+PDFkit cannot read html to convert to pdf (the html file exists),False,1635294500,2021-10-27,2021,10,1,0,61,"['python-3.x', 'apache-spark-sql', 'pdfkit', 'azure-synapse', 'azure-data-lake-gen2']",202110,3,Azure Synapse
+File is not readed completely by Copy Data in Azure Data Factory,True,1635298100,2021-10-27,2021,10,1,0,158,"['azure', 'azure-sql-database', 'azure-blob-storage', 'azure-data-factory', 'azure-synapse']",202110,3,Azure Synapse
+Azure synapse analytics parallel insert into staging table,True,1635362679,2021-10-27,2021,10,2,0,85,"['azure', 'performance', 'load', 'azure-synapse']",202110,3,Azure Synapse
+Azure Synapse - How to read data from Azure Cosmos DB container containing multiple types in same collection?,True,1635412474,2021-10-28,2021,10,2,0,81,"['azure-cosmosdb', 'azure-synapse']",202110,3,Azure Synapse
+Copying Data from excel to Synapse,False,1635430005,2021-10-28,2021,10,0,0,32,"['excel', 'azure-synapse']",202110,3,Azure Synapse
+"Azure Synapse Analytics, call a Notebook within a Data Flows",False,1635452868,2021-10-28,2021,10,0,0,19,"['pyspark', 'azure-synapse']",202110,3,Azure Synapse
+Unable to debug python code in conecting to Pypark Synapse Kernel,False,1635483598,2021-10-29,2021,10,0,0,65,"['visual-studio-code', 'jupyter-notebook', 'azure-synapse', 'vscode-python']",202110,3,Azure Synapse
+Azure Synapse pipeline: How to move incremental updates from SQL Server into synapse for crunching numbers,False,1635522451,2021-10-29,2021,10,1,0,56,"['sql', 'azure', 'architecture', 'dataflow', 'azure-synapse']",202110,3,Azure Synapse
+Read schema information from a parquet format file stored in azure data lake gen2,True,1635528181,2021-10-29,2021,10,1,1,173,"['parquet', 'azure-synapse', 'azure-data-lake-gen2']",202110,3,Azure Synapse
+unable to read csv file from synapse spark scala notebook,False,1635676724,2021-10-31,2021,10,1,0,69,['azure-synapse'],202110,3,Azure Synapse
+Parse error at line x: Combination of ROLLUP and column expressions in a GROUP BY clause is not supported,True,1635739073,2021-11-01,2021,11,1,0,16,['azure-synapse'],202111,3,Azure Synapse
+How to write to Azure Search Index from Synapse Spark?,False,1635804760,2021-11-01,2021,11,1,0,27,"['azure-cognitive-search', 'azure-synapse']",202111,3,Azure Synapse
+How can I get the provisioning state of my Workspace Package to be &quot;Succeeded&quot; and not &quot;Incomplete&quot; when I create it through the SDK?,True,1635860094,2021-11-02,2021,11,1,0,66,"['python', 'azure', 'azure-synapse', 'azure-sdk']",202111,3,Azure Synapse
+Synapse Spark Pool hung on Provisioning State: Delete Error,False,1635867562,2021-11-02,2021,11,1,0,53,['azure-synapse'],202111,3,Azure Synapse
+Header reading as row from parquet file,True,1635874786,2021-11-02,2021,11,1,0,34,['azure-synapse'],202111,3,Azure Synapse
+Azure Synapse Data transformation using Scripting,False,1635938293,2021-11-03,2021,11,0,0,30,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Ezport data from azure synapse sql,True,1636136877,2021-11-05,2021,11,1,1,57,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Access Synapse Workspace Studio only through an Azure VM?,True,1636141322,2021-11-05,2021,11,1,-1,103,"['azure', 'endpoint', 'azure-synapse', 'azure-dns']",202111,3,Azure Synapse
+Sql Synapse How to update the latest records,True,1636281679,2021-11-07,2021,11,1,0,43,"['sql', 'sql-update', 'azure-synapse']",202111,3,Azure Synapse
+Azure Synapse severless SQL pool - query execution fails,True,1636306574,2021-11-07,2021,11,1,0,159,"['azure', 'azure-synapse', 'azure-data-lake-gen2']",202111,3,Azure Synapse
+How to read file path values as columns in Spark?,True,1636384080,2021-11-08,2021,11,2,0,42,"['pyspark', 'apache-spark-sql', 'azure-synapse']",202111,3,Azure Synapse
+Synapse Analytics - Zip files with CETAS,False,1636386998,2021-11-08,2021,11,0,0,19,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+can&#39;t load parquet timestamp using Synapse serverless pool&#39;s OPENROWSET,False,1636398839,2021-11-08,2021,11,0,0,240,"['sql-server', 'timestamp', 'parquet', 'azure-synapse']",202111,3,Azure Synapse
+Retaining Column Ordering Pyspark,False,1636403887,2021-11-08,2021,11,0,0,28,"['pyspark', 'azure-synapse']",202111,3,Azure Synapse
+Orchestrate Azure synapse spark notebook from C#/api,False,1636408145,2021-11-08,2021,11,0,0,51,"['apache-spark', 'pyspark', 'azure-synapse', 'azure-sdk-.net', 'spark-notebook']",202111,3,Azure Synapse
+DF-Executor-OutOfMemoryError in synapse pipeline,False,1636455013,2021-11-09,2021,11,1,0,63,"['azure', 'out-of-memory', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202111,3,Azure Synapse
+How to use string function within CAST/CONVERT in t-sql (Azure Synapse),True,1636460822,2021-11-09,2021,11,4,0,99,"['tsql', 'casting', 'type-conversion', 'azure-synapse']",202111,3,Azure Synapse
+Error with Azure Synapse DEP-enabled workspaces,True,1636474714,2021-11-09,2021,11,1,0,29,['azure-synapse'],202111,3,Azure Synapse
+How to remove a lock from a table in a Synapse Dedicated Pool?,True,1636476311,2021-11-09,2021,11,1,0,30,"['azure-synapse', 'table-locking', 'table-lock']",202111,3,Azure Synapse
+"Migrating from Azure Sql to Azure Synapse, can&#39;t connect to Synapse in Airflow",False,1636486996,2021-11-09,2021,11,1,0,52,"['python', 'airflow', 'azure-synapse']",202111,3,Azure Synapse
+Azure Synapse Workspace: Where the scripts are published?,True,1636489970,2021-11-09,2021,11,2,0,92,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Is there a way to obtain pipeline activity run details for Azure Synapse from Log Analytics?,False,1636553783,2021-11-10,2021,11,1,0,65,"['azure-log-analytics', 'azure-synapse', 'azure-diagnostics']",202111,3,Azure Synapse
+How to retrieve View definition on Synapse (Azure SQL DW)?,True,1636627948,2021-11-11,2021,11,2,1,82,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Can I create a parameter in a Local?,False,1636649927,2021-11-11,2021,11,1,0,36,"['azure-data-factory', 'azure-synapse']",202111,3,Azure Synapse
+How to create UDF in Azure synapse with column as input parameter and return a table?,False,1636693321,2021-11-12,2021,11,1,0,37,"['select', 'split', 'user-defined-functions', 'azure-synapse', 'azure-sql-data-warehouse']",202111,3,Azure Synapse
+Databricks + ADF + ADLS2 + Hive = Azure Synapse,True,1636720844,2021-11-12,2021,11,1,1,53,"['azure', 'apache-spark', 'azure-sql-database', 'azure-databricks', 'azure-synapse']",202111,3,Azure Synapse
+How can i get output as below jn spark scala,True,1636728422,2021-11-12,2021,11,1,0,40,"['scala', 'apache-spark-sql', 'azure-synapse']",202111,3,Azure Synapse
+Azure Synapse dedicated sql pool not showing data objects in synapse studio,True,1636840548,2021-11-13,2021,11,1,0,91,"['azure', 'azure-synapse', 'azure-sql-data-warehouse', 'azure-sql-pool']",202111,3,Azure Synapse
+Azure Synapse Bulk Load: Login failed for user &#39;&lt;token-identified principal&gt;&#39;,False,1636850364,2021-11-14,2021,11,0,0,27,"['azure', 'azure-synapse', 'azure-sql-data-warehouse', 'azure-sql-pool']",202111,3,Azure Synapse
+i cant query data with Gzip COMPRESSION,False,1636880283,2021-11-14,2021,11,0,0,32,['azure-synapse'],202111,3,Azure Synapse
+(Azure Synapse) How to get the environment name in SQL Script?,True,1636974416,2021-11-15,2021,11,1,1,48,['azure-synapse'],202111,3,Azure Synapse
+How to raise an exception to exit Synapse Apache Spark notebook,True,1636982935,2021-11-15,2021,11,1,1,115,"['apache-spark', 'pyspark', 'azure-synapse']",202111,3,Azure Synapse
+Azure Synapse File cannot be opened error,False,1637074332,2021-11-16,2021,11,1,1,97,"['sql', 'azure', 'azure-synapse']",202111,3,Azure Synapse
+Synapse Dedicated Pool vs Partitioned PARQUET,False,1637075478,2021-11-16,2021,11,1,0,33,"['parquet', 'partitioning', 'azure-synapse']",202111,3,Azure Synapse
+"What are the various errors/issues associated with Azure Data services, that might occur during runtime?",False,1637096539,2021-11-16,2021,11,1,0,38,"['azure', 'azure-storage', 'azure-data-factory', 'azure-synapse', 'azure-data-lake-gen2']",202111,3,Azure Synapse
+Writing SQL Query Lookup Activity in Synapse Pipeline Returns Error Message,True,1637175563,2021-11-17,2021,11,2,1,48,"['azure-data-factory-2', 'azure-synapse']",202111,3,Azure Synapse
+How to Read json file which is more than 3GB and has duplicate columns in nested elements,True,1637236284,2021-11-18,2021,11,1,0,46,"['azure', 'azure-functions', 'azure-data-factory', 'azure-synapse']",202111,3,Azure Synapse
+Int32 overflow issue when trying to pivot a very large dataframe to create a matrix in Pandas,False,1637248762,2021-11-18,2021,11,0,0,63,"['pandas', 'matrix', 'pivot', 'out-of-memory', 'azure-synapse']",202111,3,Azure Synapse
+Azure Data Factory. Unable to load files via HTTP Connector,True,1637273589,2021-11-18,2021,11,1,0,59,"['azure', 'azure-data-factory', 'azure-data-lake', 'azure-synapse', 'azure-data-lake-gen2']",202111,3,Azure Synapse
+Azure Synapse RunId and GroupId,False,1637274386,2021-11-18,2021,11,0,0,27,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Hive in Azure Synapse,False,1637297257,2021-11-19,2021,11,1,0,31,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Pass value into stored procedure in T-SQL,True,1637318221,2021-11-19,2021,11,2,0,64,"['tsql', 'parameter-passing', 'azure-synapse', 'azure-sql-data-warehouse']",202111,3,Azure Synapse
+Using Azure Synapse pyspark filter flatten the nested json objects based on nested object&#39;s data type,False,1637327608,2021-11-19,2021,11,1,0,56,"['json', 'pyspark', 'azure-synapse', 'nested-json']",202111,3,Azure Synapse
+Returning Delta Results from Serverless SQL Select Statements returns Invalid Object error,False,1637573601,2021-11-22,2021,11,0,0,46,"['sql', 'serverless', 'azure-synapse', 'delta-lake']",202111,3,Azure Synapse
+Want to Read json file whose size in GB(5-10) and has duplicate columns in nested elements,False,1637574099,2021-11-22,2021,11,0,0,51,"['azure', 'pyspark', 'apache-spark-sql', 'azure-data-factory', 'azure-synapse']",202111,3,Azure Synapse
+Can use Azure Synapse and Azure Data Factory to transform and convert CSV to XML?,False,1637575002,2021-11-22,2021,11,1,0,42,"['azure', 'azure-data-factory', 'azure-synapse']",202111,3,Azure Synapse
+DACPAC fails &quot;Error SQL72018: External Data Source could not be imported but one or more of these objects exist in your source.&quot; -Sqlpool synapse,False,1637596702,2021-11-22,2021,11,0,0,23,"['azure-synapse', 'azure-sql-pool']",202111,3,Azure Synapse
+Question Create statistics for column in OPENROWSET path,False,1637611065,2021-11-22,2021,11,0,0,34,"['sql', 'csv', 'statistics', 'serverless', 'azure-synapse']",202111,3,Azure Synapse
+Order of Merged file in Copy Activity - Azure Synapse,False,1637664071,2021-11-23,2021,11,0,0,12,"['azure', 'azure-synapse', 'copy-activity']",202111,3,Azure Synapse
+Is Azure Synapse is a good choice for Time Series Data?,False,1637673636,2021-11-23,2021,11,1,0,29,"['azure', 'time-series', 'azure-synapse']",202111,3,Azure Synapse
+Need &#39;/n&#39; but getting parsed as new line- Azure Synapse Analytics,False,1637678506,2021-11-23,2021,11,1,0,30,"['azure-synapse', 'data-transform']",202111,3,Azure Synapse
+Azure Synapse: How to use Web Activity to Query REST API Pipeline Data?,False,1637696724,2021-11-23,2021,11,2,2,91,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Strange Internal server error on Synapse pipeline,False,1637767621,2021-11-24,2021,11,1,0,50,"['azure', 'azure-data-factory', 'azure-synapse', 'azure-data-factory-pipeline']",202111,3,Azure Synapse
+"Is there any way to monitor internal azure data factory pipeline like Payload size, number of retries, Concurrent Jobs and similar parameters?",False,1637815674,2021-11-25,2021,11,1,0,34,"['azure', 'azure-data-factory', 'azure-synapse', 'azure-monitoring', 'azure-data-factory-pipeline']",202111,3,Azure Synapse
+Error while trying to query external tables in Serverless SQL pools,False,1637827049,2021-11-25,2021,11,0,0,23,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Azure SQL Pool what really it is and could it be used for Postgres database,True,1637830679,2021-11-25,2021,11,1,0,38,"['azure-sql-database', 'azure-synapse', 'azure-sql-pool']",202111,3,Azure Synapse
+Can you use a data flow sink as a source in the same data flow?,True,1637832710,2021-11-25,2021,11,1,0,41,"['azure-data-factory', 'pipeline', 'azure-synapse']",202111,3,Azure Synapse
+Best way to bulk load data from Azure Synapse Serverless SQL pools into Azure storage or Databricks Spark,True,1637846942,2021-11-25,2021,11,1,0,28,"['azure', 'azure-synapse']",202111,3,Azure Synapse
+Found duplicate column in one of the json when running spark.read.json even though there are no duplicate columns,False,1637861711,2021-11-25,2021,11,1,0,109,"['azure', 'pyspark', 'apache-spark-sql', 'azure-synapse']",202111,3,Azure Synapse
+Why a Pipeline keeps stuck in queued status forever in Azure Data Factory?,False,1637862968,2021-11-25,2021,11,1,0,79,"['azure', 'azure-pipelines', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse']",202111,3,Azure Synapse
+Method not found: BigDataPoolResourceInfo.set_SparkConfigProperties(Microsoft.Azure.Management.Synapse.Models.SparkConfigProperties),False,1637921030,2021-11-26,2021,11,0,0,9,"['azure-synapse', 'azure-search-.net-sdk']",202111,3,Azure Synapse
+How to set and get variable value in Azure Synapse or Data Factory pipeline,True,1638068906,2021-11-28,2021,11,1,0,92,"['azure', 'azure-data-factory', 'azure-synapse', 'azure-data-lake-gen2']",202111,3,Azure Synapse
+How to bulk upload synapse notebooks in Synapse Workspace,False,1638110592,2021-11-28,2021,11,0,0,32,"['powershell', 'apache-spark', 'azure-powershell', 'azure-cli', 'azure-synapse']",202111,3,Azure Synapse
+Table Details in Azure Datawarehouse,True,1638164973,2021-11-29,2021,11,1,0,45,"['sql-server', 'azure', 'tsql', 'azure-sql-database', 'azure-synapse']",202111,3,Azure Synapse
+DBT - best practices on schema to which the dbt deployed models should belong to?,True,1638199175,2021-11-29,2021,11,1,1,34,"['materialized-views', 'azure-synapse', 'dbt', 'fishtown-analytics', 'common-schema']",202111,3,Azure Synapse
+Is it possible to connect to serverless sql pool via azure databricks?,True,1638223120,2021-11-29,2021,11,1,0,63,"['azure', 'jdbc', 'pyspark', 'databricks', 'azure-synapse']",202111,3,Azure Synapse
+How to Create Synapse workspace in sandbox?,True,1638300223,2021-11-30,2021,11,1,0,47,"['azure', 'azure-web-app-service', 'azure-synapse']",202111,3,Azure Synapse
+Is there a way to set spark configuration to a mapping dataflow managed cluster/IR in Azure Data Factory/Azure Synapse?,False,1638430399,2021-12-02,2021,12,1,0,17,"['azure', 'apache-spark', 'azure-data-factory', 'azure-synapse']",202112,3,Azure Synapse
+Synapse Spark - TaskCanceledException: A task was canceled error,False,1638477732,2021-12-02,2021,12,0,0,59,"['json', 'apache-spark', 'pyspark', 'azure-synapse']",202112,3,Azure Synapse
+Transform .parquet file varchar column to datetime in Azure Synapse,False,1638491704,2021-12-03,2021,12,1,0,50,"['sql', 'parquet', 'azure-synapse', 'azure-data-lake-gen2', 'azure-sql-data-warehouse']",202112,3,Azure Synapse
+Event based trigger issue in adf,False,1638556862,2021-12-03,2021,12,0,0,21,"['azure-data-factory-2', 'azure-synapse']",202112,3,Azure Synapse
+Unable to open or query .parquet files due to corrupted column,False,1638663314,2021-12-05,2021,12,0,0,27,"['apache-spark', 'parquet', 'azure-data-lake', 'azure-stream-analytics', 'azure-synapse']",202112,3,Azure Synapse
+Why can&#39;t i query synapse serverless view from azure data studio or databricks?,True,1638676488,2021-12-05,2021,12,1,0,49,"['databricks', 'serverless', 'azure-synapse', 'delta-lake', 'azure-data-studio']",202112,3,Azure Synapse
+Convert timestamp from string to EST time in Synapse,True,1638774437,2021-12-06,2021,12,1,0,42,"['sql', 'azure-synapse', 'datetime2']",202112,3,Azure Synapse
+GRANT Database Scoped Credential syntax gives mismatched input error,False,1638839989,2021-12-07,2021,12,1,0,41,"['azure', 'azure-sql-database', 'azure-synapse', 'azure-sqldw', 'azure-purview']",202112,3,Azure Synapse
+How to use IS_MEMBER(&#39;AAD_GROUPNAME&#39;) in Azure Synapse Analytics?,True,1638969205,2021-12-08,2021,12,1,1,20,"['azure', 'azure-sql-database', 'azure-synapse']",202112,3,Azure Synapse
+Synapse Notebook dataframe.write.mode(&quot;overwrite&quot;).saveAsTable deletes table and does not write results,False,1638984351,2021-12-08,2021,12,0,0,40,"['apache-spark-sql', 'jupyter-notebook', 'azure-synapse']",202112,3,Azure Synapse
+T-SQL (Azure Synapse) Dynamic grouping based on unknown number of Primary Keys,False,1638990363,2021-12-08,2021,12,1,0,34,"['sql', 'tsql', 'stored-procedures', 'dynamic-sql', 'azure-synapse']",202112,3,Azure Synapse
+DBeaver connection to Azure Synapse Analytics,False,1639050555,2021-12-09,2021,12,0,0,43,"['azure-synapse', 'dbeaver', 'synapse']",202112,3,Azure Synapse
+"Issue with save, load and predict with lightgbm from synapseml",False,1639063395,2021-12-09,2021,12,0,0,59,"['apache-spark', 'pyspark', 'azure-synapse', 'lightgbm']",202112,3,Azure Synapse
+Azure CLI - unable to create Azure Synapse linked service - quoting issue with JSON file,True,1639083042,2021-12-09,2021,12,1,0,31,"['json', 'shell', 'azure-cli', 'azure-synapse', 'linked-service']",202112,3,Azure Synapse
+Update table by selecting column values from another table,False,1639138371,2021-12-10,2021,12,0,0,50,"['sql', 'sql-server', 'azure-synapse', 'azure-sql-data-warehouse']",202112,3,Azure Synapse
+Your pool&#39;s capacity exceeds your workspace&#39;s total vcore quota,True,1639140688,2021-12-10,2021,12,1,0,64,"['apache-spark', 'azure-synapse']",202112,3,Azure Synapse
+Websocket connection was closed with code 1006 (AbnormalClosure) on Synapse for altering store procedures,False,1639276601,2021-12-12,2021,12,0,0,37,"['tsql', 'stored-procedures', 'azure-synapse']",202112,3,Azure Synapse
+How to backfill currency data using calendar table and currency data updated monthly,True,1639400275,2021-12-13,2021,12,1,0,17,"['sql-server', 'left-join', 'common-table-expression', 'azure-synapse', 'currency-exchange-rates']",202112,3,Azure Synapse
+Dynamic SQL Server Query loop through schema find primary key duplicate,False,1639429522,2021-12-13,2021,12,1,1,69,"['sql', 'dynamic-sql', 'azure-synapse']",202112,3,Azure Synapse
+Convert the regexp statement from Netezza to Azure Synapse (sql server),False,1639491167,2021-12-14,2021,12,0,-2,36,"['sql', 'sql-server', 'regex', 'netezza', 'azure-synapse']",202112,3,Azure Synapse
+Writing csv with double quotes around strings (Alteryx),False,1639502045,2021-12-14,2021,12,2,0,57,"['azure', 'csv', 'export-to-csv', 'azure-synapse', 'alteryx']",202112,3,Azure Synapse
+How do I connect to Azure synapse dedicated pool from a spark application in k8s?,False,1639511696,2021-12-14,2021,12,0,0,15,"['scala', 'apache-spark', 'amazon-eks', 'azure-synapse']",202112,3,Azure Synapse
+execute a python code on Azure VM using Synapse,False,1639563776,2021-12-15,2021,12,1,0,38,"['automation', 'azure-logic-apps', 'azure-automation', 'azure-synapse']",202112,3,Azure Synapse
+Azure Synapse Spark pool command to list all secrets in Key Vault,True,1639608991,2021-12-15,2021,12,2,1,48,"['azure', 'apache-spark', 'azure-keyvault', 'azure-synapse']",202112,3,Azure Synapse
+Get Resource Consumption statistics for a User or Server principal or each Request on Azure dedicated SQL pool using Log Analytics,False,1639658227,2021-12-16,2021,12,1,0,27,"['azure', 'azure-sql-database', 'azure-synapse', 'azure-sqldw']",202112,3,Azure Synapse
+Azure ML Dataset Versioning: What is Different if it Points to the Same Data?,False,1639665519,2021-12-16,2021,12,0,1,29,"['azure', 'version', 'azure-synapse', 'azure-machine-learning-service']",202112,3,Azure Synapse
+Azure Linked Service for a Synapse workspace,False,1639669448,2021-12-16,2021,12,1,0,52,"['azure', 'azure-data-factory', 'azure-synapse', 'azure-data-lake-gen2', 'linked-service']",202112,3,Azure Synapse
+Azure Synapse development (code writing) best practice,True,1639669964,2021-12-16,2021,12,1,0,57,"['python', 'azure', 'azure-synapse']",202112,3,Azure Synapse
+How vCores and Memory get allocated from Spark Pool,False,1639719884,2021-12-17,2021,12,1,0,15,['azure-synapse'],202112,3,Azure Synapse
+Azure synapse get metadata,False,1639985495,2021-12-20,2021,12,1,0,27,"['azure', 'azure-data-factory', 'azure-data-factory-2', 'azure-synapse', 'synapse']",202112,3,Azure Synapse
+Azure Synapse Apache Spark : Pipeline level spark configuration,False,1640086577,2021-12-21,2021,12,1,2,56,"['apache-spark', 'pyspark', 'azure-synapse']",202112,3,Azure Synapse
+How to query parquet data files from Azure Synapse when data may be structured and exceed 8000 bytes in length,False,1640100806,2021-12-21,2021,12,0,0,58,"['tsql', 'parquet', 'azure-synapse']",202112,3,Azure Synapse
+While connecting Tableau to Azure Synapase via oauth getting error &quot;unable to find valid certification path to requested target&quot;,False,1640110298,2021-12-21,2021,12,1,0,32,"['oauth', 'tableau-api', 'azure-synapse', 'tableau-desktop']",202112,3,Azure Synapse
+Azure Synapse Serverless SQL Pool - Error while selecting from quoted fields,True,1640177219,2021-12-22,2021,12,1,0,44,"['azure', 'azure-synapse']",202112,3,Azure Synapse
+unable to upload workspace packages and requirement.txt files on azure synapse analytics sparks pool,False,1640180092,2021-12-22,2021,12,0,0,20,"['azure', 'apache-spark', 'libraries', 'azure-synapse', 'spark-packages']",202112,3,Azure Synapse
+Azure Synapse Analitycs: How to get in the ouput the name of the parquet that is generated in a copy pipeline,True,1640275386,2021-12-23,2021,12,1,0,21,['azure-synapse'],202112,3,Azure Synapse
+How to do random sampling of rows in Synapse Analytics serverless SQL pool?,False,1640285701,2021-12-23,2021,12,0,0,28,"['sql', 'azure', 'tsql', 'hash', 'azure-synapse']",202112,3,Azure Synapse
+How do I know views created in Spark Databases across synapse workspace?,False,1640590110,2021-12-27,2021,12,0,0,14,"['apache-spark', 'view', 'azure-synapse']",202112,3,Azure Synapse
+Loading data from Azure Synapse spark pool to Synapse SQL dedicated pool,False,1640601149,2021-12-27,2021,12,0,1,28,"['azure', 'azure-synapse']",202112,3,Azure Synapse
